@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: Enrico
+title: enrico
 description: ""
 icon: person
 date: 2026-07-21T16:37:30+02:00
