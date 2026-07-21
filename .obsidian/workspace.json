@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/audace/_index.md",
+                "file": "content/docs/enrico/ToDos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "ToDos"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "3fb4049fb40ff8a4",
   "lastOpenFiles": [
-    "content/docs/enrico/_index.md",
+    "content/docs/audace/ToDos.md",
     "content/docs/audace/_index.md",
+    "content/docs/enrico/_index.md",
     "content/docs/Enrico/ToDos.md",
     "content/docs/Audace/ToDos.md",
     "content/docs/Audace/_index.md",
