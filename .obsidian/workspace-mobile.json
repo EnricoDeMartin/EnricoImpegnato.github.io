@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "07b50e18005bd901",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad17756e45180d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46078f10db2f16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/docs/audace/ToDos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ToDos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97f67605bb36b6b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea8613c096699bcb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Esplora risorse"
+        }
+      },
+      {
+        "id": "3b15b85363eb57e7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Ricerca"
+        }
+      },
+      {
+        "id": "0890aacbcd2f5080",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etichette"
+        }
+      },
+      {
+        "id": "566087a3d47e6232",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tutte le proprietà"
+        }
+      },
+      {
+        "id": "156b0aa63b4c2b6e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Segnalibri"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "26615cc6bc14a785",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ceb33a62c78ce9e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Riferimenti"
+        }
+      },
+      {
+        "id": "74e7c27c641bb88f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Collegamenti in uscita"
+        }
+      },
+      {
+        "id": "e6aa50b1b072d3df",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Struttura"
+        }
+      },
+      {
+        "id": "3564d924229bcbfe",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a46078f10db2f16a",
+  "lastOpenFiles": [
+    "resources/_gen/images/opengraph/card-base-2_hu_f5c72b1ed8a97de2.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_d3090a086fb58626.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_c6b324a164365967.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_a566dc6f45a47b04.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_a3e79690fe60e3c3.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_872b9bcd6be2940e.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_851bff907c56705b.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_75eba431d922d946.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_43e8444a9e1d12af.png",
+    "resources/_gen/images/opengraph/card-base-2_hu_317791f5b6e87447.png",
+    "resources/_gen/images/images/lotus_docs_screenshot_hu_66e9cd3ae362b718.webp",
+    "resources/_gen/assets/scss/style.scss_75c6e4958733350ff94b8e379a6fa860.json",
+    "resources/_gen/assets/scss/style.scss_75c6e4958733350ff94b8e379a6fa860.content",
+    "resources/_gen/assets/docs/scss/style.scss_3af58a2f65b412309fa2f516edd6eb31.json",
+    "resources/_gen/assets/docs/scss/style.scss_3af58a2f65b412309fa2f516edd6eb31.content",
+    "hugo.toml",
+    "go.sum",
+    "go.mod",
+    "content/docs/enrico/_index.md",
+    "content/docs/enrico/ToDos.md",
+    "content/docs/audace/_index.md",
+    "content/docs/audace/ToDos.md",
+    "content/docs/Dashboard.md",
+    "assets/jsconfig.json",
+    "archetypes/default.md",
+    "README.md",
+    "themes/lotusdocs",
+    "themes"
+  ]
+}

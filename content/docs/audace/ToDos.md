@@ -7,5 +7,7 @@ draft: false
 toc: true
 ---
 
-# Prova prova  
-ciao  
+# 1001 Vela Cup
+- [ ] iscrizione 
+- [ ] esponente dei pesi
+- [ ] roba lore
