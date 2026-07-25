@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container text-center py-5" style="min-height: 70vh; display: flex; flex-direction: column; justify-content: center;">
+    
+    <!-- Titolo Generale estratto dal Front Matter -->
+    <h1 class="display-3 fw-bold mb-4">{{ .Title }}</h1>
+
+    <!-- Eventuale descrizione o testo aggiuntivo -->
+    <div class="lead mb-5">
+        {{ .Content }}
+    </div>
+
+    <!-- Contenitore dei Pulsanti -->
+    <div class="d-flex flex-wrap justify-content-center gap-3">
+        
+        {{/* 1. Puntiamo direttamente all'oggetto pagina della sezione "docs" */}}
+        {{ $docs := .Site.GetPage "section" "docs" }}
+
+        {{/* 2. Verifichiamo che la sezione esista per evitare errori di compilazione */}}
+        {{ if $docs }}
+            
+            {{/* 3. Iteriamo esclusivamente sulle Sottosezioni (ignorando le singole pagine) */}}
+            {{ range $docs.Sections }}
+                <a href="{{ .RelPermalink }}" class="btn btn-primary btn-lg shadow-sm px-4 py-2">
+                    {{ .Title }}
+                </a>
+            {{ end }}
+            
+        {{ else }}
+            <div class="alert alert-warning">
+                Impossibile trovare la cartella 'docs'. Assicurati che contenga un file _index.md.
+            </div>
+        {{ end }}
+
+    </div>
+</div>
+{{ end }}
