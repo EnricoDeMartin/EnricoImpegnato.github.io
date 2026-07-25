@@ -1,6 +1,6 @@
 ---
 weight: 900
-title: audace
+title: Audace
 description: ""
 icon: sailing
 draft: false
