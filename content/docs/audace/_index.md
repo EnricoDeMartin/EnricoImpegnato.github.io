@@ -6,7 +6,7 @@ icon: sailing
 draft: false
 toc: true
 ---
-# [Checklist audace 2026][https://docs.google.com/spreadsheets/d/17vAx4k2lDPYLUViuAJ_j4HMW3GmCzQHWVYQwdWlOgnQ/edit?gid=693226702#gid=693226702]
+# [Checklist audace 2026](https://docs.google.com/spreadsheets/d/17vAx4k2lDPYLUViuAJ_j4HMW3GmCzQHWVYQwdWlOgnQ/edit?gid=693226702#gid=693226702)
 
 # Cose da fare coordinativo
 
