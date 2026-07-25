@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: enrico
+title: Enrico
 description: ""
 icon: person
 draft: false
