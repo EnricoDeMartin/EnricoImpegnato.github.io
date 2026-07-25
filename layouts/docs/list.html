@@ -1,14 +1,4 @@
 {{ define "main" }}
-    
-    <!-- 1. Il contenuto del tuo _index.md viene renderizzato qui -->
-    {{ if .Content }}
-    <div class="row">
-        <div class="col-12 mt-4 pt-2">
-            {{ .Content }}
-        </div>
-    </div>
-    {{ end }}
-
     <!-- 2. Il loop originale che genera le card dei file figli -->
     <div class="row flex-xl-wrap">
         {{ range .Pages.ByWeight }}
@@ -30,4 +20,15 @@
         </div><!--end col-->
         {{ end }}
     </div>
+
+    
+    <!-- 1. Il contenuto del tuo _index.md viene renderizzato qui -->
+    {{ if .Content }}
+    <div class="row">
+        <div class="col-12 mt-4 pt-2">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+    
 {{ end }}
