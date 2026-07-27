@@ -6,24 +6,22 @@ icon: sailing
 draft: false
 toc: true
 ---
-# Lavori Lina Rossa
-- [ ] Anguille puntapiedi di rinforzo
-- [ ] Riverniciatura scafo
-- [ ] Settare max bompresso
-
----
-# Armo Lina Rossa
-- [ ] Capire il vang
-- [ ] Controllare funzionamento tutti i circuiti
-- [ ] Questione lunghezza drizze ed eventualmente rifarle.
-	- [ ] Drizza randa che non arriva ai dentini (ma era mezza incastrata con la drizza gennaker quindi muh)
-	- [ ] Drizza gennaker
-	- [ ] In generale le drizze sono un po' mangiate, ma nulla di che.
-- [ ] Armare e issare gennaker
-	- [ ] Boccola bompresso
-- [ ] Vedere se cambiare scotta randa
+# Rigging tips Lina Rossa
+- Levare balumina
+- In caso staccare l'arridatorio delle alte di qualche cm con un grillo per lasciare ancora più le alte
+# Lavori Armo Lina Rossa
+- [ ] Provare trapezi
 - [ ] Controllare il timone e aggiungere gli spessori
-
+- [ ] Rifare takeup
+- [ ] passare vang e cunningham sopra terrazze e non sotto
+- [ ] Rifare drizza randa lunghezza giusta
+- [ ] Aprire albero e controllare bene drizze
+- [ ] Fare circuito Gennaker 
+	- [ ] Trovare cime x tutto il circuito
+	- [ ] (forse) rifare drizza gennaker
+	- [ ] accorciare bompresso 
+- [ ] Rifare cima diretta vang anche un pelino più corta
+- [ ] 
 ---
 # Trasferta
 ## Persone 
