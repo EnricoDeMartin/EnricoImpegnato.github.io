@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/audace/ToDos.md",
+                "file": "content/docs/audace/1001VelaCup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDos"
+              "title": "1001VelaCup"
             }
           }
         ]
@@ -178,6 +178,21 @@
   },
   "active": "a46078f10db2f16a",
   "lastOpenFiles": [
+    "content/docs/audace/ToDos.md",
+    "layouts/index.html",
+    "layouts/docs/list.html",
+    "/layouts/index.html",
+    "/layouts/docs/list.html",
+    "/hugo.toml",
+    "/content/docs/enrico/_index.md",
+    "/content/docs/enrico",
+    "/content/docs/audace/_index.md",
+    "/content/docs/audace/1001VelaCup.md",
+    "content/docs/audace/1001VelaCup.md",
+    "/content/docs/audace",
+    "/content/docs",
+    "/content",
+    "layouts/docs",
     "resources/_gen/images/opengraph/card-base-2_hu_f5c72b1ed8a97de2.png",
     "resources/_gen/images/opengraph/card-base-2_hu_d3090a086fb58626.png",
     "resources/_gen/images/opengraph/card-base-2_hu_c6b324a164365967.png",
@@ -188,23 +203,11 @@
     "resources/_gen/images/opengraph/card-base-2_hu_75eba431d922d946.png",
     "resources/_gen/images/opengraph/card-base-2_hu_43e8444a9e1d12af.png",
     "resources/_gen/images/opengraph/card-base-2_hu_317791f5b6e87447.png",
-    "resources/_gen/images/images/lotus_docs_screenshot_hu_66e9cd3ae362b718.webp",
-    "resources/_gen/assets/scss/style.scss_75c6e4958733350ff94b8e379a6fa860.json",
-    "resources/_gen/assets/scss/style.scss_75c6e4958733350ff94b8e379a6fa860.content",
-    "resources/_gen/assets/docs/scss/style.scss_3af58a2f65b412309fa2f516edd6eb31.json",
-    "resources/_gen/assets/docs/scss/style.scss_3af58a2f65b412309fa2f516edd6eb31.content",
-    "hugo.toml",
-    "go.sum",
-    "go.mod",
     "content/docs/enrico/_index.md",
     "content/docs/enrico/ToDos.md",
     "content/docs/audace/_index.md",
-    "content/docs/audace/ToDos.md",
     "content/docs/Dashboard.md",
-    "assets/jsconfig.json",
     "archetypes/default.md",
-    "README.md",
-    "themes/lotusdocs",
-    "themes"
+    "README.md"
   ]
 }
