@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/audace/1001VelaCup.md",
+                "file": "content/docs/enrico/PolliZozzi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1001VelaCup"
+              "title": "PolliZozzi"
             }
           }
         ]
@@ -178,6 +178,10 @@
   },
   "active": "a46078f10db2f16a",
   "lastOpenFiles": [
+    "content/docs/audace/1001VelaCup.md",
+    "content/docs/enrico/PolliZozzi.md",
+    "content/docs/Dashboard 1.md",
+    "content/docs/Dashboard.md",
     "content/docs/audace/ToDos.md",
     "layouts/index.html",
     "layouts/docs/list.html",
@@ -188,7 +192,6 @@
     "/content/docs/enrico",
     "/content/docs/audace/_index.md",
     "/content/docs/audace/1001VelaCup.md",
-    "content/docs/audace/1001VelaCup.md",
     "/content/docs/audace",
     "/content/docs",
     "/content",
@@ -206,7 +209,6 @@
     "content/docs/enrico/_index.md",
     "content/docs/enrico/ToDos.md",
     "content/docs/audace/_index.md",
-    "content/docs/Dashboard.md",
     "archetypes/default.md",
     "README.md"
   ]
