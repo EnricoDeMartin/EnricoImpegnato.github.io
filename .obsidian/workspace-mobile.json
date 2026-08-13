@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/enrico/PolliZozzi.md",
+                "file": "content/docs/audace/CalendarioAdriaco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PolliZozzi"
+              "title": "CalendarioAdriaco"
             }
           }
         ]
@@ -37,10 +37,12 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Esplora risorse"
+          "title": "Esplora file"
         }
       },
       {
@@ -166,10 +168,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -178,8 +180,10 @@
   },
   "active": "a46078f10db2f16a",
   "lastOpenFiles": [
-    "content/docs/audace/1001VelaCup.md",
+    "Senza nome.base",
+    "content/docs/audace/CalendarioAdriaco.md",
     "content/docs/enrico/PolliZozzi.md",
+    "content/docs/audace/1001VelaCup.md",
     "content/docs/Dashboard 1.md",
     "content/docs/Dashboard.md",
     "content/docs/audace/ToDos.md",
@@ -195,7 +199,6 @@
     "/content/docs/audace",
     "/content/docs",
     "/content",
-    "layouts/docs",
     "resources/_gen/images/opengraph/card-base-2_hu_f5c72b1ed8a97de2.png",
     "resources/_gen/images/opengraph/card-base-2_hu_d3090a086fb58626.png",
     "resources/_gen/images/opengraph/card-base-2_hu_c6b324a164365967.png",
