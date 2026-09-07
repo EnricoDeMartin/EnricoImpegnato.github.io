@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 # Rigging tips Lina Rossa
-- Levare balumina
+- Accorciare balumina
 - In caso staccare l'arridatorio delle alte di qualche cm con un grillo per lasciare ancora più le alte
 # Lavori Armo Lina Rossa
 - [ ] Provare trapezi
@@ -28,7 +28,7 @@ toc: true
 - Io 
 - Totta
 - Samu
-- Palace
+- Gio Marchese
 - Busdon
 - Lore
 ## Tempi e orari
