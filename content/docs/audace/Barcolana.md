@@ -6,6 +6,7 @@ icon: sailing
 draft: false
 toc: true
 ---
+---
 ## Turni Stand
 ### Giovedì
 - 9:00 - 13:00: Busdon, Lore, Totta

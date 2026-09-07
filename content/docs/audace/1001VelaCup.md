@@ -6,10 +6,11 @@ icon: sailing
 draft: false
 toc: true
 ---
-# Rigging tips Lina Rossa
+---
+## Rigging tips Lina Rossa
 - Accorciare balumina
 - In caso staccare l'arridatorio delle alte di qualche cm con un grillo per lasciare ancora più le alte
-# Lavori Armo Lina Rossa
+## Lavori Armo Lina Rossa
 - [ ] Provare trapezi
 - [ ] Controllare il timone e aggiungere gli spessori
 - [ ] Rifare takeup
@@ -23,15 +24,15 @@ toc: true
 - [ ] Rifare cima diretta vang anche un pelino più corta
 - [ ] 
 ---
-# Trasferta
-## Persone 
+## Trasferta
+### Persone 
 - Io 
 - Totta
 - Samu
 - Gio Marchese
 - Busdon
 - Lore
-## Tempi e orari
+### Calendario
 Viaggio: maps dà 5 ore. Con barca a vela e pause facciamo 6/6:30.
 #### Lunedì 21/09 
 Carico furgone.

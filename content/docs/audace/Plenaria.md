@@ -6,6 +6,7 @@ icon: event
 draft: true
 toc: true
 ---
+---
 ## Coordinate spazio-temporali
 
 ## Ordine del giorno
