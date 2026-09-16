@@ -7,22 +7,25 @@ draft: false
 toc: true
 ---
 ---
-## Rigging tips Lina Rossa
-- Accorciare balumina
-- In caso staccare l'arridatorio delle alte di qualche cm con un grillo per lasciare ancora più le alte
 ## Lavori Armo Lina Rossa
-- [ ] Provare trapezi
+- [ ] Cambiare dadi terrazze in autobloccanti 
+- [ ] Aggiungere gomma spessore terrazze
+- [ ] Sikare (supporti terrazze e buco d’ispezione poppa)
+- [ ] Pitturare
+- [ ] Grip?
+- [ ] Elastico/cima che sorregge gli stick in poppa
+- [x] Controllare lunghezza bompresso
+- [x] Provare trapezi
 - [ ] Controllare il timone e aggiungere gli spessori
-- [ ] Rifare takeup
-- [ ] passare vang e cunningham sopra terrazze e non sotto
+- [x] Rifare takeup
+- [x] passare vang e cunningham sopra terrazze e non sotto
 - [ ] Rifare drizza randa lunghezza giusta
 - [ ] Aprire albero e controllare bene drizze
-- [ ] Fare circuito Gennaker 
-	- [ ] Trovare cime x tutto il circuito
-	- [ ] (forse) rifare drizza gennaker
-	- [ ] accorciare bompresso 
+- [x] Fare circuito Gennaker 
+	- [x] Trovare cime x tutto il circuito
+	- [x] (forse) rifare drizza gennaker
+	- [x] accorciare bompresso 
 - [ ] Rifare cima diretta vang anche un pelino più corta
-- [ ] 
 ---
 ## Trasferta
 ### Persone 
