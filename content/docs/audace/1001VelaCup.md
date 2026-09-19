@@ -11,21 +11,19 @@ toc: true
 - [ ] Cambiare dadi terrazze in autobloccanti 
 - [ ] Aggiungere gomma spessore terrazze
 - [ ] Sikare (supporti terrazze e buco d’ispezione poppa)
-- [ ] Pitturare
 - [ ] Grip?
 - [ ] Elastico/cima che sorregge gli stick in poppa
 - [x] Controllare lunghezza bompresso
-- [x] Provare trapezi
-- [ ] Controllare il timone e aggiungere gli spessori
+- [x] Controllare il timone e aggiungere gli spessori
 - [x] Rifare takeup
-- [x] passare vang e cunningham sopra terrazze e non sotto
+- [ ] passare vang e cunningham sotto sacca gennaker
 - [ ] Rifare drizza randa lunghezza giusta
-- [ ] Aprire albero e controllare bene drizze
-- [x] Fare circuito Gennaker 
-	- [x] Trovare cime x tutto il circuito
-	- [x] (forse) rifare drizza gennaker
-	- [x] accorciare bompresso 
-- [ ] Rifare cima diretta vang anche un pelino più corta
+- [ ] Mollare un pelo vite leva vang
+- [ ] Tirare cunningham fiocco
+- [ ] Usare buco basso scotta fiocco
+- [ ] Scotta fiocco porco dio
+- [ ] Cazzare penultima stecca
+
 ---
 ## Trasferta
 ### Persone 
