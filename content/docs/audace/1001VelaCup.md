@@ -23,6 +23,15 @@ toc: true
 - [ ] Usare buco basso scotta fiocco
 - [ ] Scotta fiocco porco dio
 - [ ] Cazzare penultima stecca
+- [ ] Tenere giù timone
+- [ ] tenere giù deriva
+- [ ] Gennaker va su male
+- [ ] mura gennaker si incastra
+- [ ] mollare stecca alta 
+- [ ] segni ghinde
+- [ ] scotta fiocco 
+- [ ] scotta randa
+- [ ] primaria cunningham corta
 
 ---
 ## Trasferta
