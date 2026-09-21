@@ -7,6 +7,61 @@ draft: false
 toc: true
 ---
 ---
+## Cose da portare 
+- [ ] Gazebo
+- [ ] Fervi
+	- [x] chiavi
+	- [ ] kit punte avvitatore 
+	- [ ] kit punte trapano
+	- [x] cacciaviti 
+	- [x] brugole
+	- [ ] martelli
+	- [ ] carta vetro
+	- [ ] pinze
+	- [ ] Morsetti
+- [ ] Cassoni armo
+- [ ] chimmica
+	- [ ] resina bona
+	- [ ] SpaBond 1 blu e 2 rosa + punte + pistola
+	- [ ] sika
+	- [ ] pittura
+	- [ ] grip
+	- [ ] acetone
+- [ ] vetro 
+- [ ] basalto
+- [ ] sacco
+- [ ] peel
+- [ ] carta vetro
+- [ ] Accessori laminazione
+	- [ ] guanti
+	- [ ] tazze
+	- [ ] maschere
+	- [ ] mescolini
+	- [ ] pennelli
+	- [ ] rullo
+	- [ ] spatole
+	- [ ] cavalletti
+- [ ] Power tools
+	- [ ] trapano
+	- [ ] Flex batteria
+	- [ ] cosino figo a cinghia
+	- [ ] fein
+	- [ ] aspirapolvere 
+	- [ ] ciabatta
+	- [ ] Caricabatterie 
+	- [ ] frigo redbull?
+- [ ] salvagenti/trapezi
+- [ ] albero 2
+- [ ] Tubi carbonio/bompresso 
+- [ ] timoni vedere quali
+- [ ] Pennarelli
+- [ ] 2 balene rosse
+
+
+
+
+
+
 ## Lavori Armo Lina Rossa
 - [ ] Cambiare dadi terrazze in autobloccanti 
 - [ ] Aggiungere gomma spessore terrazze
