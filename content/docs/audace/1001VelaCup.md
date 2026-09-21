@@ -22,6 +22,7 @@ toc: true
 - [ ] Cassoni armo
 - [ ] chimmica
 	- [ ] resina bona
+	- [ ] colla 120
 	- [ ] SpaBond 1 blu e 2 rosa + punte + pistola
 	- [ ] sika
 	- [ ] pittura
@@ -29,7 +30,8 @@ toc: true
 	- [ ] acetone
 - [ ] vetro 
 - [ ] basalto
-- [ ] sacco
+- [ ] sacco x fare un tavolino
+- [ ] legno per tavolino 
 - [ ] peel
 - [ ] carta vetro
 - [ ] Accessori laminazione
@@ -71,12 +73,12 @@ toc: true
 - [x] Controllare lunghezza bompresso
 - [x] Controllare il timone e aggiungere gli spessori
 - [x] Rifare takeup
-- [ ] passare vang e cunningham sotto sacca gennaker
+- [x] passare vang e cunningham sotto sacca gennaker
 - [ ] Rifare drizza randa lunghezza giusta
-- [ ] Mollare un pelo vite leva vang
-- [ ] Tirare cunningham fiocco
-- [ ] Usare buco basso scotta fiocco
-- [ ] Scotta fiocco porco dio
+- [x] Mollare un pelo vite leva vang
+- [x] Tirare cunningham fiocco
+- [x] Usare buco basso scotta fiocco
+- [x] Scotta fiocco porco dio
 - [ ] Cazzare penultima stecca
 - [ ] Tenere giù timone
 - [ ] tenere giù deriva
