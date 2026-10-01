@@ -9,10 +9,10 @@ toc: true
 ---
 
 ## Introduzione (no talk)
-- Clip Miramare
-- Clip Piazza Unità
-- Clip Moth
-In sottofondo: Emma/Maria: "We are Audace Sailing Team, 70 people, only 1 goal" (detto piano)
+*Clip Miramare*
+*Clip Piazza Unità*
+*Clip Moth che vola*
+*In sottofondo:* Emma/Maria: "We are Audace Sailing Team, 70 people, only 1 goal" (detto piano)
 ## Progettazione + Cantiere (storia di Audace)
 
 #### Palazzi
@@ -21,7 +21,7 @@ We were born in 2019 to build sustainable sailboats, e adesso il nostro obiettiv
 Tutto iniziò con Dedalo, uno skiff fatto in legno. 
 Siamo poi siamo passati all'utilizzo di fibre sostenibili per le lavorazioni in composito, quali ad esempio il lino, da cui nascono Lina e Lina Rossa.
 
-//frame di noi su lina rossa che scanniamo a merda
+*frame di noi su lina rossa che scanniamo a merda*
 
 #### Cantore
 qualche anno dopo abbiamo deciso di metterci ancora più in gioco, ed entrare nel mondo delle imbarcazioni foilanti.
@@ -44,6 +44,8 @@ Con la misurazione di varie metriche tra cui velocità, accellerazione e assetto
 Il nostro obiettivo finale sarà realizzare un sistema di bordo altamente integrato, in grado di controllare elettronicamente il volo dell'imbarcazione e di fornire feedback in tempo reale al timoniere per massimizzare le prestazioni in acqua.
 
 ## Immagine/marketing
+
+*foto/video di loghi, roba degli sponsor, ecc...*
 
 Tutto ciò non sarebbe effettivamente possibile se non fosse grazie a tutti i nostri sponsor e supporter che ci forniscono tutte le risorse indispensabili alla realizzazione dei nostri progetti. 
 
