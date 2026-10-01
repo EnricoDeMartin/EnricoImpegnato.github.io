@@ -28,9 +28,7 @@ qualche anno dopo abbiamo deciso di metterci ancora più in gioco, ed entrare ne
 
 Andando a studiare la fluidodinamica e l'aerodinamica delle barche, e con tutta l'esperienza raccolta dalla costruzione di skiff in lino, abbiamo realizzato il progetto del nostro primo moth Flying Lina, che si è dimostrato un gran successo.
 #### Lolli/Totta
-/* tagliata
-Poichè i punteggi finali della competizione SuMoth Challenge non dipendono unicamente dalla performance in acqua, ma anche dallo studio progettuale e le scelte sostenibili. Per questo motivo la ricerca su nuovi materiali e tecniche di costruzione si rivela essere fondamentale per puntare sempre più in alto nella competizione.
-\*/
+~~Poichè i punteggi finali della competizione SuMoth Challenge non dipendono unicamente dalla performance in acqua, ma anche dallo studio progettuale e le scelte sostenibili. Per questo motivo la ricerca su nuovi materiali e tecniche di costruzione si rivela essere fondamentale per puntare sempre più in alto nella competizione.~~
 
 Ogni anno partecipiamo alla SuMoth Challenge, e i punteggi della competizione dipendono fortemente dallo studio progettuale e dalle nostre scelte di sostenibilità, per i quali dobbiamo scrivere dei report dettagliati e tener conto di tutto ciò che utilizziamo.
 Per questo la ricerca e la sperientazione di nuovi materiali e tecniche di costruzione risulta essere fondamentale per puntare sempre più in alto nella competizione.
