@@ -1,6 +1,6 @@
 ---
 weight: 900
-title: 1001 Vela Cup
+title: Copione Spithill
 description: ""
 icon: sailing
 draft: false
