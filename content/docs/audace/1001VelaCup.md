@@ -8,56 +8,56 @@ toc: true
 ---
 ---
 ## Cose da portare 
-- [ ] Gazebo
-- [ ] Fervi
+- [x] Gazebo
+- [x] Fervi
 	- [x] chiavi
-	- [ ] kit punte avvitatore 
-	- [ ] kit punte trapano
+	- [x] kit punte avvitatore 
+	- [x] kit punte trapano
 	- [x] cacciaviti 
 	- [x] brugole
-	- [ ] martelli
-	- [ ] carta vetro
-	- [ ] pinze
-	- [ ] Morsetti
-- [ ] Cassoni armo
-- [ ] chimmica
-	- [ ] resina bona
-	- [ ] colla 120
-	- [ ] SpaBond 1 blu e 2 rosa + punte + pistola
-	- [ ] sika
-	- [ ] pittura
-	- [ ] grip
-	- [ ] acetone
-- [ ] vetro 
-- [ ] basalto
-- [ ] sacco x fare un tavolino
-- [ ] legno per tavolino 
-- [ ] peel
-- [ ] carta vetro
+	- [x] martelli
+	- [x] carta vetro
+	- [x] pinze
+	- [x] Morsetti
+- [x] Cassoni armo
+- [x] chimmica
+	- [x] resina bona
+	- [x] colla 120
+	- [x] SpaBond 1 blu e 2 rosa + punte + pistola
+	- [x] sika
+	- [x] pittura
+	- [x] grip
+	- [x] acetone
+- [x] vetro 
+- [x] basalto
+- [x] sacco x fare un tavolino
+- [x] legno per tavolino 
+- [x] peel
+- [x] carta vetro
 - [ ] Accessori laminazione
-	- [ ] guanti
-	- [ ] tazze
-	- [ ] maschere
-	- [ ] mescolini
-	- [ ] pennelli
-	- [ ] rullo
-	- [ ] spatole
-	- [ ] cavalletti
-- [ ] Power tools
-	- [ ] trapano
-	- [ ] Flex batteria
-	- [ ] cosino figo a cinghia
-	- [ ] fein
-	- [ ] aspirapolvere 
-	- [ ] ciabatta
-	- [ ] Caricabatterie 
-	- [ ] frigo redbull?
-- [ ] salvagenti/trapezi
-- [ ] albero 2
-- [ ] Tubi carbonio/bompresso 
-- [ ] timoni vedere quali
-- [ ] Pennarelli
-- [ ] 2 balene rosse
+	- [x] guanti
+	- [x] tazze
+	- [x] maschere
+	- [x] mescolini
+	- [x] pennelli
+	- [x] rullo
+	- [x] spatole
+	- [x] cavalletti
+- [x] Power tools
+	- [x] trapano
+	- [x] Flex batteria
+	- [x] cosino figo a cinghia
+	- [x] fein
+	- [x] aspirapolvere 
+	- [x] ciabatta
+	- [x] Caricabatterie 
+	- [x] frigo redbull?
+- [x] salvagenti/trapezi
+- [x] albero 2
+- [x] Tubi carbonio/bompresso 
+- [x] timoni vedere quali
+- [x] Pennarelli
+- [x] 2 balene rosse
 
 
 
@@ -65,11 +65,11 @@ toc: true
 
 
 ## Lavori Armo Lina Rossa
-- [ ] Cambiare dadi terrazze in autobloccanti 
-- [ ] Aggiungere gomma spessore terrazze
-- [ ] Sikare (supporti terrazze e buco d’ispezione poppa)
+- [x] Cambiare dadi terrazze in autobloccanti 
+- [x] Aggiungere gomma spessore terrazze
+- [x] Sikare (supporti terrazze e buco d’ispezione poppa)
 - [ ] Grip?
-- [ ] Elastico/cima che sorregge gli stick in poppa
+- [x] Elastico/cima che sorregge gli stick in poppa
 - [x] Controllare lunghezza bompresso
 - [x] Controllare il timone e aggiungere gli spessori
 - [x] Rifare takeup
@@ -83,12 +83,12 @@ toc: true
 - [ ] Tenere giù timone
 - [ ] tenere giù deriva
 - [ ] Gennaker va su male
-- [ ] mura gennaker si incastra
+- [x] mura gennaker si incastra
 - [ ] mollare stecca alta 
 - [ ] segni ghinde
-- [ ] scotta fiocco 
-- [ ] scotta randa
-- [ ] primaria cunningham corta
+- [x] scotta fiocco 
+- [x] scotta randa
+- [x] primaria cunningham corta
 
 ---
 ## Trasferta
