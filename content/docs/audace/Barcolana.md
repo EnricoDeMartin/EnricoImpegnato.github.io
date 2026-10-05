@@ -36,5 +36,5 @@ Portare giù e preparare tutto dalle 6 alle 8 della mattina.
 Probabilmente noleggio furgone?
 
 ### Per totta
-- [ ] Fare banner barcolana (non quello 1001, facciamo na cosa fatta bella noi con poco poco testo)
-- [ ] Reel pre barcolana, se riusciamo a registrare qualcosa alla 1001 e mettere del b-roll della barca che vola. MOLTO LEGGERO, MOLTO CHILL (cit. Laura)
+- [x] Fare banner barcolana (non quello 1001, facciamo na cosa fatta bella noi con poco poco testo)
+- [x] Reel pre barcolana, se riusciamo a registrare qualcosa alla 1001 e mettere del b-roll della barca che vola. MOLTO LEGGERO, MOLTO CHILL (cit. Laura)

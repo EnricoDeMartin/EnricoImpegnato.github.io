@@ -8,6 +8,6 @@ toc: true
 ---
 
 # 1001 Vela Cup
-- [ ] iscrizione 
-- [ ] esponente dei pesi
-- [ ] roba lore
+- [x] iscrizione 
+- [x] esponente dei pesi
+- [x] roba lore
