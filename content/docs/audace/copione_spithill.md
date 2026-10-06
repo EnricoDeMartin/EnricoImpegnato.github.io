@@ -2,7 +2,7 @@
 weight: 900
 title: Copione Vento Di Sfida
 description: ""
-icon: sailing
+icon: article
 draft: false
 toc: true
 ---
