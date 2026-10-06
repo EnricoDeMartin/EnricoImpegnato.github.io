@@ -58,7 +58,7 @@ To build Neverina, we used flax and basalt fibers wherever possible. Together wi
 ## Elettronica
 #### Busdon
 **25 secondi**
-Uno step verso il futuro è stato l’inizio dello sviluppo di sistemi elettronici di bordo, per la raccolta dati in tempo reale. Con la misurazione di varie metriche tra cui velocità, accellerazione e assetto, il nostro obiettivo è quello di fornire dati preziosi sia ai nostri progettisti che al nostro shore team. Il nostro obiettivo finale sarà realizzare un sistema di bordo altamente integrato, in grado di controllare elettronicamente il volo dell’imbarcazione e di fornire feedback in tempo reale al timoniere per massimizzare le prestazioni in acqua.
+Uno step verso il futuro è stato l’inizio dello sviluppo di sistemi elettronici di bordo, per la raccolta dati in tempo reale. Our objective è quello di fornire dati preziosi sia ai nostri progettisti che al nostro shore team. Our final goal sarà realizzare un sistema di bordo altamente integrato, in grado di controllare elettronicamente il volo dell’imbarcazione e di fornire feedback in tempo reale al timoniere per massimizzare le prestazioni in acqua.
 
 *clip mentre salda, gioca con la scatola di elettronica, mentre scarica dei dati*
 ## Immagine/marketing
