@@ -19,8 +19,8 @@ toc: true
 ---
 ## Recruiting
 ### AI & data analysis
-- [ ] 1o (del santo daniele), giovedì ore 11 (inizio lezione)
+- [x] 1o (del santo daniele), giovedì ore 11 (inizio lezione)
 ### Economia
 - [ ] 2o Podrecca Elena, martedì 20 ore 11 (fine lezione)
 ### Psicologia
-- [ ] **venerdì questo tra neuro e pensiero e linguaggio alle 11**, oppure **martedì 20 tra basi statistiche e psicologia di comunità alle 10** 
+- [ ] **martedì 20 tra basi statistiche e psicologia di comunità alle 10** (Piccoli Valentina)
