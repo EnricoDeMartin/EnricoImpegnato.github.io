@@ -27,7 +27,7 @@ toc: true
 ---
 ## Immagine
 - [ ] Fare lista guide linea sponsor
-- [x] Capire se la Totta è studentessa o no e in caso se vuole rimanere
+- [ ] Capire se la Totta è studentessa o no e in caso se vuole rimanere
 - [ ] Fare calendario post
 ### Formazione
 - Riunione con Laura 
@@ -36,8 +36,3 @@ toc: true
 ### Sponsor
 
 ### Merch
-
----
-## Amministrazione
-## Pianificazione
-- [ ] Fare timeline consegne/iscrizioni SuMoth
