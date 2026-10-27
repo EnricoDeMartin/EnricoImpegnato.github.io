@@ -23,7 +23,8 @@ toc: true
 - Account AUD@sumoth.org
 ### Punto sponsor
 
-
+### Altro
+- questione 
 
 ---
 ## Cantiere
