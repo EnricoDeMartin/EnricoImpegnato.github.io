@@ -11,14 +11,14 @@
             "id": "a46078f10db2f16a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "content/docs/audace/copione_spithill.md",
-                "mode": "source",
-                "source": false
+                "aFile": "content/docs/audace/programma_audace_26-27.md",
+                "bFile": "content/docs/audace/programma_audace_26-27.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "copione_spithill"
+              "icon": "git-pull-request",
+              "title": "Diff: programma_audace_26-27"
             }
           }
         ]
@@ -180,20 +180,31 @@
   },
   "active": "a46078f10db2f16a",
   "lastOpenFiles": [
+    "content/docs/audace/programma_audace_26-27.md",
     "content/docs/audace/_index.md",
+    "content/docs/audace/punti_riunione_taccani.md",
+    "/content/docs/audace/punti_riunione_taccani.md",
+    "/content/docs/audace/programma_audace_26-27.md",
+    "/content/docs/audace/domande-risposte_Radar_RaiRadio1.md",
+    "/content/docs/audace/_index.md",
+    "/themes/lotusdocs",
+    "/themes",
+    "/content/docs/audace",
+    "/content/docs",
+    "/content",
+    "content/docs/audace/teams_registration_form_sumoth.md",
     "content/docs/audace/copione_spithill.md",
+    "content/docs/audace/domande-risposte_Radar_RaiRadio1.md",
+    "/content/docs/audace/teams_registration_form_sumoth.md",
+    "/content/docs/audace/copione_spithill.md",
+    "/content/docs/audace/ToDos.md",
+    "/content/docs/audace/Barcolana.md",
     "content/docs/audace/Barcolana.md",
     "content/docs/audace/CalendarioAdriaco.md",
     "content/docs/audace/Plenaria.md",
     "/content/docs/audace/Plenaria.md",
-    "/content/docs/audace/Barcolana.md",
     "/content/docs/audace/1001VelaCup.md",
-    "/themes/lotusdocs",
-    "/themes",
     "/content/docs/enrico",
-    "/content/docs/audace",
-    "/content/docs",
-    "/content",
     "Senza nome.base",
     "content/docs/enrico/PolliZozzi.md",
     "content/docs/Dashboard 1.md",
@@ -203,7 +214,6 @@
     "layouts/docs/list.html",
     "/layouts/index.html",
     "/content/docs/enrico/_index.md",
-    "/content/docs/audace/_index.md",
     "resources/_gen/images/opengraph/card-base-2_hu_f5c72b1ed8a97de2.png",
     "resources/_gen/images/opengraph/card-base-2_hu_d3090a086fb58626.png",
     "resources/_gen/images/opengraph/card-base-2_hu_c6b324a164365967.png",
@@ -215,8 +225,6 @@
     "resources/_gen/images/opengraph/card-base-2_hu_43e8444a9e1d12af.png",
     "resources/_gen/images/opengraph/card-base-2_hu_317791f5b6e87447.png",
     "content/docs/enrico/_index.md",
-    "content/docs/enrico/ToDos.md",
-    "archetypes/default.md",
-    "README.md"
+    "content/docs/enrico/ToDos.md"
   ]
 }

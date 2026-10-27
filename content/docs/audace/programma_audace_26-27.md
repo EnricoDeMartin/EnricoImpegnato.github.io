@@ -7,6 +7,20 @@ draft: false
 toc: true
 ---
 ---
+## Amministrazione 
+### Questione associazione
+- Come si fa?
+- Quali sono le responsabilità 
+- Che tipo di associazione?
+- come ci si tutela?
+
+### Tempistiche sumoth
+
+### Punto sponsor
+
+
+
+---
 ## Cantiere
 ### Riordino riorganizzazione per sicurezza
 ### Formazione
@@ -18,6 +32,8 @@ toc: true
 
 ---
 ## Progettazione
+Far venire anche palace e lore
+Capire tempistiche anche x cantiere
 ### Formazione
 
 ### SuMoth
@@ -36,3 +52,4 @@ toc: true
 ### Sponsor
 
 ### Merch
+
