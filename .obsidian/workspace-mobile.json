@@ -11,14 +11,14 @@
             "id": "a46078f10db2f16a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/docs/audace/programma_audace_26-27.md",
-                "bFile": "content/docs/audace/programma_audace_26-27.md",
-                "aRef": ""
+                "file": "content/docs/audace/programma_audace_26-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: programma_audace_26-27"
+              "icon": "lucide-file",
+              "title": "programma_audace_26-27"
             }
           }
         ]

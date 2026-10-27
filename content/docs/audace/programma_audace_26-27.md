@@ -15,7 +15,12 @@ toc: true
 - come ci si tutela?
 
 ### Tempistiche sumoth
+### Team Declaration 
+- Scadenza ufficiale 
+- Scadenza nostra
 
+### Accesso ad account vari
+- Account AUD@sumoth.org
 ### Punto sponsor
 
 
