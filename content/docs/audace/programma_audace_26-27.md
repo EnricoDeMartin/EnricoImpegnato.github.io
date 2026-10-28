@@ -8,6 +8,9 @@ toc: true
 ---
 ---
 ## Amministrazione 
+### Riunione Amministrazione INALIA
+- definire wishlist con misurazioni assieme a Riccardo
+- mandare wishlist
 ### Questione associazione
 - Come si fa?
 - Quali sono le responsabilità 
@@ -50,8 +53,8 @@ Vedere geometrie se si riesce a fare dalla roba vecchia
 
 ---
 ## Progettazione
-Far venire anche palace e lore
-Capire tempistiche anche x cantiere
+
+# **Fare wishlist delle cose che vogliamo misurare INALIA (specifica!!! devono farci un preventivo!!!)**
 ### Formazione
 - Rhinoceros (Lore fa lezione)
 - Poi imparare grasshopper con i video
