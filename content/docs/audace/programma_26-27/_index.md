@@ -7,4 +7,4 @@ draft: false
 toc: true
 ---
 ---
-# Prova
+Programma di Audace Sailing Team per la stagione 2026-2027
