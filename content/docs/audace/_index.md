@@ -24,8 +24,3 @@ toc: true
 - [ ] 2o Podrecca Elena, martedì 20 ore 11 (fine lezione)
 ### Psicologia
 - [ ] **martedì 20 tra basi statistiche e psicologia di comunità alle 10** (Piccoli Valentina)
----
-## ODG coordinativo
-- Quanto budget possiamo dare a Inalia
-- Questione fiera acquacoltura pordenone
-- Quando fare coordinativo settimanale
