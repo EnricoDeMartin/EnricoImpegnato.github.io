@@ -1,11 +1,10 @@
 ---
 weight: 900
 title: ODG - Verbale Coordinativo
-description: ""
+description: Coordinativo in data 5/11/2026
 icon: checklist_rtl
 draft: true
 toc: true
-date: 5-11-2026
 ---
 ---
 ## ODG
