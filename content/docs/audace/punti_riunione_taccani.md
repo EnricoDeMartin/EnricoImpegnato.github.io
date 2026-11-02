@@ -7,7 +7,6 @@ draft: false
 toc: true
 ---
 --- 
-
 ## Questione sicurezza
 - Sicurezza in cantiere
 - Entrate e uscite in cantiere (questione foglio ingressi)
@@ -18,3 +17,6 @@ toc: true
 
 ---
 ## Questione furgone con Astreo e Racing Team
+
+---
+## Team Declaration e iscrizione Team Manager alla piattaforma
