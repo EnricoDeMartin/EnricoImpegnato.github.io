@@ -11,14 +11,10 @@
             "id": "a46078f10db2f16a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/docs/audace/programma_audace_26-27.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "programma_audace_26-27"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -180,18 +176,32 @@
   },
   "active": "a46078f10db2f16a",
   "lastOpenFiles": [
+    "content/docs/audace/programma_26-27/programma_progettazione_audace_26-27.md",
+    "content/docs/audace/programma_26-27/programma_immagine_audace_26-27.md",
+    "content/docs/audace/programma_26-27/programma_cantiere_audace_26-27.md",
+    "content/docs/audace/programma_26-27/programma_amministrazione_audace_26-27.md",
+    "content/docs/audace/programma_26-27/_index.md",
     "content/docs/audace/programma_audace_26-27.md",
-    "content/docs/audace/_index.md",
-    "content/docs/audace/punti_riunione_taccani.md",
-    "/content/docs/audace/punti_riunione_taccani.md",
-    "/content/docs/audace/programma_audace_26-27.md",
-    "/content/docs/audace/domande-risposte_Radar_RaiRadio1.md",
+    "content/docs/audace/ODG_e_verbale_coordinativo.md",
+    "/content/docs/audace/programma_26-27/programma_progettazione_audace_26-27.md",
+    "/content/docs/audace/programma_26-27/programma_immagine_audace_26-27.md",
+    "/content/docs/audace/programma_26-27/programma_cantiere_audace_26-27.md",
+    "/content/docs/audace/programma_26-27/programma_amministrazione_audace_26-27.md",
+    "/content/docs/audace/programma_26-27/_index.md",
     "/content/docs/audace/_index.md",
+    "/content/docs/audace/ODG_e_verbale_coordinativo.md",
+    "content/docs/audace/programma_26-27",
     "/themes/lotusdocs",
     "/themes",
+    "/content/docs/audace/programma_26-27",
     "/content/docs/audace",
     "/content/docs",
     "/content",
+    "/content/docs/audace/programma_audace_26-27.md",
+    "content/docs/audace/_index.md",
+    "content/docs/audace/punti_riunione_taccani.md",
+    "/content/docs/audace/punti_riunione_taccani.md",
+    "/content/docs/audace/domande-risposte_Radar_RaiRadio1.md",
     "content/docs/audace/teams_registration_form_sumoth.md",
     "content/docs/audace/copione_spithill.md",
     "content/docs/audace/domande-risposte_Radar_RaiRadio1.md",
@@ -199,21 +209,9 @@
     "/content/docs/audace/copione_spithill.md",
     "/content/docs/audace/ToDos.md",
     "/content/docs/audace/Barcolana.md",
-    "content/docs/audace/Barcolana.md",
-    "content/docs/audace/CalendarioAdriaco.md",
-    "content/docs/audace/Plenaria.md",
-    "/content/docs/audace/Plenaria.md",
-    "/content/docs/audace/1001VelaCup.md",
     "/content/docs/enrico",
     "Senza nome.base",
-    "content/docs/enrico/PolliZozzi.md",
-    "content/docs/Dashboard 1.md",
-    "content/docs/Dashboard.md",
-    "content/docs/audace/ToDos.md",
     "layouts/index.html",
-    "layouts/docs/list.html",
-    "/layouts/index.html",
-    "/content/docs/enrico/_index.md",
     "resources/_gen/images/opengraph/card-base-2_hu_f5c72b1ed8a97de2.png",
     "resources/_gen/images/opengraph/card-base-2_hu_d3090a086fb58626.png",
     "resources/_gen/images/opengraph/card-base-2_hu_c6b324a164365967.png",
@@ -223,8 +221,6 @@
     "resources/_gen/images/opengraph/card-base-2_hu_851bff907c56705b.png",
     "resources/_gen/images/opengraph/card-base-2_hu_75eba431d922d946.png",
     "resources/_gen/images/opengraph/card-base-2_hu_43e8444a9e1d12af.png",
-    "resources/_gen/images/opengraph/card-base-2_hu_317791f5b6e87447.png",
-    "content/docs/enrico/_index.md",
-    "content/docs/enrico/ToDos.md"
+    "resources/_gen/images/opengraph/card-base-2_hu_317791f5b6e87447.png"
   ]
 }
