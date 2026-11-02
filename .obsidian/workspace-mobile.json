@@ -11,10 +11,14 @@
             "id": "a46078f10db2f16a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/docs/audace/ODG_e_verbale_coordinativo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "ODG_e_verbale_coordinativo"
             }
           }
         ]
