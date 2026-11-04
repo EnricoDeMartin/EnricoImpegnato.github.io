@@ -12,8 +12,6 @@ toc: true
 - mandare wishlist a Emma > che la invia a Lambie
 - Lambie risponde con un preventivo
 - presentare preventivo al cooridnativo, considerando di farci abbassare il prezzo a corrispettivo fornitura nostri dati (non sono disponibili a realizzare una partenrship a titolo gratuito, ma abbastanza aperti a venirici incontro sul prezzo)
-
-## Sicurezza cantiere
 ## Questione associazione
 - Come si fa?
 - Quali sono le responsabilità 
