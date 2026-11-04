@@ -20,3 +20,14 @@ toc: true
 
 ---
 ## Team Declaration e iscrizione Team Manager alla piattaforma
+
+---
+## Termosifoni
+Non termosifonano
+Fontana ha detto che passa a controllare in centrale termica, ma non lo farà mai
+Non c'è pressione nell'impianto (?)
+Sollecitare
+
+---
+## Estrattori e finestre
+A che punto?
