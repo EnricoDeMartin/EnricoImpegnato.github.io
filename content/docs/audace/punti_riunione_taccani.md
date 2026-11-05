@@ -13,7 +13,19 @@ toc: true
 - [ ] Nastri su vetri antinfrangimento per armadio cantiere
       Aspettando soldi Brico per andarli a comprare 
 - [x] Riordino cantiere
+### Da fare:
+- **Lina**: Farla a pezzi e disfarsene
+- **Maya**: 
+- **Azteca**:
+- Mettere gommapiuma e segnaletica su struttura legno barche. **URGENTE**
+- **Chiedere a Fontana:**
+	- Caldaia
+	- Altro lavaocchi da tenere in bagno
+	- Estintore!!!
+	- Armadio Resine!!!
+- Mandare mail sollecito cappe ed estrattori
 ### Sicurezza
+
 
 ---
 ## Questione furgone con Astreo e Racing Team
