@@ -42,7 +42,7 @@ Fontana ha detto che passa a controllare in centrale termica
 ### Estrattori
 Avviata la procedura, 
 ### Finestre
-Nel giro di pochi giorni arrivano per installare gli infissi
+Nel giro di pochi giorni arrivano per installare gli infissi (Persiani)
 
 ---
 ## Appendere la barca

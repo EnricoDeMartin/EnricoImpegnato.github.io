@@ -15,6 +15,7 @@ toc: true
 - Chiedere a reparto immagine di produrre un pdf/powerpoint per tutte le necessità di presentare il team ed il progetto da inviare ad un eventuale sponsor
 - Calana fa un po' cacare, usiamo tutti Google Calendar BENE
 - Chiedere alla Lolli azienda per riciclo barche per fare tatami per bambini (veloce oppure Lina la facciamo sparire)
+- Leggere E FAR FIRMARE il verbale sulla sicurezza (quello lì) da TUTTI
 
 ---
 ## Verbale
