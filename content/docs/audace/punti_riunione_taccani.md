@@ -32,7 +32,6 @@ toc: true
 ---
 ## Team Declaration e iscrizione Team Manager alla piattaforma
 
-
 ---
 ## Termosifoni
 Non termosifonano

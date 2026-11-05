@@ -20,3 +20,5 @@ toc: true
 
 ---
 ## Verbale
+- Questione fare sparire Lina: La facciamo sparire e facciamo portare via la vasura.
+- 
