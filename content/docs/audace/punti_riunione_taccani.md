@@ -18,7 +18,7 @@ toc: true
 - **Maya**: 
 - **Azteca**:
 - Mettere gommapiuma e segnaletica su struttura legno barche. **URGENTE**
-- **Chiedere a Fontana:**
+- [x] **Chiedere a Fontana:**
 	- Caldaia
 	- Altro lavaocchi da tenere in bagno
 	- Estintore!!!
@@ -31,6 +31,7 @@ toc: true
 
 ---
 ## Team Declaration e iscrizione Team Manager alla piattaforma
+
 
 ---
 ## Termosifoni
