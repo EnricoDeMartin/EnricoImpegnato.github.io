@@ -23,9 +23,7 @@ toc: true
 	- Altro lavaocchi da tenere in bagno
 	- Estintore!!!
 	- Armadio Resine!!!
-- Mandare mail sollecito cappe ed estrattori
 ### Sicurezza
-
 
 ---
 ## Questione furgone con Astreo e Racing Team
@@ -40,7 +38,10 @@ Fontana ha detto che passa a controllare in centrale termica
 
 ---
 ## Estrattori e finestre
-A che punto?
+### Estrattori
+Avviata la procedura, 
+### Finestre
+Nel giro di pochi giorni arrivano per installare gli infissi
 
 ---
 ## Appendere la barca
