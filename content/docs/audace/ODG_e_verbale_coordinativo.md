@@ -23,4 +23,8 @@ toc: true
 - Questione fare sparire Lina: La facciamo sparire e facciamo portare via la vasura.
 - **Estrattori**: Avviata la procedura, prima o poi arrivano
 - **Finestre**: Nel giro di pochi giorni arrivano per installare gli infissi (Persiani)
-### 
+### Team declaration
+- Team Manager
+- Team Captain
+### Coordinativo bi-settimanale
+- Giovedì una settimana  si una no ore 19:00, salvo coordinativi di emergenza/eccezionali 
