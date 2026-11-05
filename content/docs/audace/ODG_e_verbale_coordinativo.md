@@ -45,3 +45,5 @@ Decisione: NO.
 Sapremo dopo il 10 di sicuro.
 ### Taccani
 Chiedere se DOBBIAMO PER FORZA andare al Salone di Venezia
+Firmato il verbale di sopralluogo
+
