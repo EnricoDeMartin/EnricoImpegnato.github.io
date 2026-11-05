@@ -23,6 +23,7 @@ toc: true
 	- Altro lavaocchi da tenere in bagno
 	- Estintore!!!
 	- Armadio Resine!!!
+	- Cassetta pronto soccorso
 ### Sicurezza
 
 ---
