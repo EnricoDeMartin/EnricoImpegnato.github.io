@@ -16,6 +16,7 @@ toc: true
 - Calana fa un po' cacare, usiamo tutti Google Calendar BENE
 - Chiedere alla Lolli azienda per riciclo barche per fare tatami per bambini (veloce oppure Lina la facciamo sparire)
 - Leggere E FAR FIRMARE il verbale sulla sicurezza (quello lì) da TUTTI
+- 
 
 ---
 ## Verbale
