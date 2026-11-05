@@ -16,9 +16,11 @@ toc: true
 - Calana fa un po' cacare, usiamo tutti Google Calendar BENE
 - Chiedere alla Lolli azienda per riciclo barche per fare tatami per bambini (veloce oppure Lina la facciamo sparire)
 - Leggere E FAR FIRMARE il verbale sulla sicurezza (quello lì) da TUTTI
-- 
 
 ---
 ## Verbale
+### Riepilogo riunione Taccani
 - Questione fare sparire Lina: La facciamo sparire e facciamo portare via la vasura.
-- 
+- **Estrattori**: Avviata la procedura, prima o poi arrivano
+- **Finestre**: Nel giro di pochi giorni arrivano per installare gli infissi (Persiani)
+### 
