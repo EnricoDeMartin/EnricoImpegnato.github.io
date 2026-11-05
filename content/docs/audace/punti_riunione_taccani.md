@@ -7,13 +7,13 @@ draft: false
 toc: true
 ---
 --- 
-## Questione sicurezza
-- Sicurezza in cantiere
-- Entrate e uscite in cantiere (questione foglio ingressi)
-- Verbale sopralluogo
-
----
-## Appendere la barca
+## Questione sicurezza e verbale
+### Verbale
+- [x] Catchpot
+- [ ] Nastri su vetri antinfrangimento per armadio cantiere
+      Aspettando soldi Brico per andarli a comprare 
+- [x] Riordino cantiere
+### Sicurezza
 
 ---
 ## Questione furgone con Astreo e Racing Team
@@ -24,10 +24,11 @@ toc: true
 ---
 ## Termosifoni
 Non termosifonano
-Fontana ha detto che passa a controllare in centrale termica, ma non lo farà mai
-Non c'è pressione nell'impianto (?)
-Sollecitare
+Fontana ha detto che passa a controllare in centrale termica
 
 ---
 ## Estrattori e finestre
 A che punto?
+
+---
+## Appendere la barca
