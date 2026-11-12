@@ -10,6 +10,8 @@ toc: true
 ## Struttura
 - **Armo**
 	- Sa armare l'albero: Si / No
+	- Sa armare il picco: 
+	- Sa armare 
 - **Manovre**
 	- Virata: non riesce, riesce ogni tanto, riesce spesso, riesce sempre 
 	- Strambata: 
@@ -20,7 +22,9 @@ toc: true
 	- Poppa: ", "
 - **Navigazione di flotta**
 	- Conosce le precedenze: Dritta/Sinistra, Sottovento/Sopravento
-- 
+- **Autonomia in uscita/rientro**
+	- Uscita: non autonomo, autonomo con compagno di squadra, totalmente autonomo
+	- Rientro: 
 - **Traino**
 	- Sa preparare la cima di recupero: Si, No
 	- Sa seguire il traino (gommone/barca davanti):
