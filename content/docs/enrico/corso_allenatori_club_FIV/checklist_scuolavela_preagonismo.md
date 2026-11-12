@@ -20,12 +20,13 @@ toc: true
 	- Poppa: ", "
 - **Navigazione di flotta**
 	- Conosce le precedenze: Dritta/Sinistra, Sottovento/Sopravento
+- 
 - **Traino**
 	- Sa preparare la cima di recupero: Si, No
 	- Sa seguire il traino (gommone/barca davanti):
 	- Sgancia la scotta:
 	- Alza la deriva:
-	- Sa mollarsi dal traino
+	- Sa mollarsi dal traino:
 
 ---
 ## Tabella
