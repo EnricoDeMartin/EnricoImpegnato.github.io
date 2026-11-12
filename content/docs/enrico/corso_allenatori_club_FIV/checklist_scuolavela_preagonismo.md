@@ -44,16 +44,16 @@ toc: true
 | Disalberare la barca |              |                |                        |
 | Riporre l'armo       |              |                |                        |
 
-| Scuffia                      | Necessita assistenza |     |
-| ---------------------------- | -------------------- | --- |
-| Raddrizza da 90°             |                      |     |
-| Raddrizza da 180°            |                      |     |
-| Svuota la barca in autonomia |                      |     |
+| Scuffia                      | Necessita assistenza | Completamente autonomo |
+| ---------------------------- | -------------------- | ---------------------- |
+| Raddrizza da 90°             |                      |                        |
+| Raddrizza da 180°            |                      |                        |
+| Svuota la barca in autonomia |                      |                        |
 
-| Manovre   | Si/No |
-| --------- | ----- |
-| Virata    |       |
-| Strambata |       |
+| Manovre   | Non completa la manovra |     |
+| --------- | ----------------------- | --- |
+| Virata    |                         |     |
+| Strambata |                         |     |
 
 | Andature    | Mantiene l'andatura | Regola correttamente la vela |
 | ----------- | ------------------- | ---------------------------- |
