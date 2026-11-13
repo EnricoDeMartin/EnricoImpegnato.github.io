@@ -35,7 +35,7 @@ toc: true
 	- Sa mollarsi dal traino:
 
 ---
-## Tabelle
+## Tabelle versione crocette
 
 | Armo/disarmo         | Non autonomo | Con assistenza | Completamente autonomo |
 | -------------------- | ------------ | -------------- | ---------------------- |
@@ -81,3 +81,12 @@ toc: true
 | Si ricorda di alzare la deriva          |       |
 | Sa lasciarsi dal traino                 |       |
 | Sa mettere via la cima di traino        |       |
+
+---
+## Tabelle versione descrizione
+| Armo/disarmo         | Livello di autonomia |
+| -------------------- | -------------------- |
+| Amare la vela        |                      |
+| Alberare la barca    |                      |
+| Disalberare la barca |                      |
+| Riporre l'armo       |                      |
