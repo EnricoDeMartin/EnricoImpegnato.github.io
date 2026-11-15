@@ -50,11 +50,28 @@ Per fare un esempio, un atleta agonista nella classe del 49er può impostare com
 Il gesto tecnico/atletico in questione è la abbattuta, la misurabilità di tale gesto è data dal tempo impiegato ad eseguirla e la valutabilità si basa sul fatto che un minore è il tempo di esecuzione, migliore è la valutazione del gesto.
 ## 2.1 Differenza e rapporto gerarchico rispetto ad altri obiettivi (Risultato e Processo)
 
-Nel processo di individuazione dell'obiettivo di prestazione è fondamentale riconoscerlo e distinguerlo da altre forme di obiettivo:
-- **obiettivo di risultato**
+Nel processo di individuazione dell'obiettivo di prestazione è fondamentale riconoscerlo e distinguerlo da altre forme di obiettivo
+
+**Obiettivo di risultato**
+L'obiettivo di risultato mira al raggiungimento di un risultato o un titolo sportivo, come ad esempio vincere un campionato o qualificarsi alle Olimpiadi.
+È un obiettivo che orienta verso una direzione generale, ma che non definisce le modalità di raggiungimento. Vi è inoltre poco controllo sull'esito, in quanto esso dipende anche dalla prestazione di altri atleti.
+È indubbiamente uno strumento importante, ma solo se accompagnato da altri tipi di obiettivi a medio-breve termine. L'investimento di troppe risorse in questo tipo di obiettivo rischia di accumulare troppa pressione sull'atleta e quindi condizionarne lo stato psicologico, se non addirittura portare al *burnout*.
+Un insieme di obiettivi di prestazione possono costituire un piano d'azione per il raggiungimento di un obiettivo di risultato. 
+
+**Obiettivo di processo**
+L'obiettivo di processo è un tipo di obiettivo altamente specifico e a breve termine, serve a guidare passo passo l'atleta nei suoi miglioramenti.
+Un esempio di obiettivo di processo potrebbe essere il ricordarsi di alzare la deriva prima del bordo di poppa.
+Un obiettivo di processo rappresenta ciò che è necessario fare per acquisire una determinata abilità. Si può quindi concentrare su dettagli tecnici all'interno di un gesto complesso, ed è ciò su cui l'atleta si concentra maggiormente durante l'attività di allenamento.
+Gli obiettivi di processo sono strettamente legati all'obiettivo di prestazione in quanto sviluppano in passaggi il percorso da effettuare per il suo raggiungimento.
 ## 2.2 Le caratteristiche di un obiettivo ben posto (obiettivi S.M.A.R.T./S.P.O.R.T.)
 
----
+Un obiettivo per essere efficace deve essere ben posto. Per rispettare ciò si fa tipicamente riferimento a dei giochi mnemonici per ricordare le caratteristiche fondamentali di un buon obiettivo.
+Di seguito illustrerò il principio comunemente usato che (a mio parere) ha maggiore efficacia nella definizione di un obiettivo, delineato in un articolo da George Doran: il criterio **S.M.A.R.T.**
+- **S**: Specifico, l'obiettivo deve essere chiaro e preciso, possibilmente definito in maniera positiva. Non deve essere ambiguo né lasciare spazio ad interpretazione.
+- **M**: Misurabile, il raggiungimento dell'obiettivo deve essere chiaramente identificabile e dipendere da fattori di valutazione oggettivi e non soggettivi. Può essere utile quantificare la "distanza" tra un obiettivo il suo precedente/successivo, in modo da quantificare il progresso effettuato.
+- **A**: Accessibile (Achievable), l'obiettivo deve essere realizzabile tramite le risorse che si hanno a disposizione.
+- **R**: Realistico, la difficoltà dell'obiettivo deve essere ben regolata, in modo da mettere alla prova l'atleta senza stremarlo. Un obiettivo troppo semplice ha poco significato e rischia di portare alla demotivazione, mentre un obiettivo troppo difficile causa frustrazione ed infine anch'esso alla volontà di arrendersi.
+- **T**: Temporale (Timely), un obiettivo deve includere un tempo chiaro di raggiungimento.
 # 3. Come definire un obiettivo di prestazione
 
 In questo elaborato, nello specifico, andrò a concentrarmi sul processo di definizione di un obiettivo di prestazione.
