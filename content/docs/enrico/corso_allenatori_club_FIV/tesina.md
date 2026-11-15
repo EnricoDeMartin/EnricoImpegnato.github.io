@@ -30,7 +30,7 @@ I benefici che derivano da questo tipo di approccio sono vari, ma i più evident
 4. **Sviluppo di nuove strategie di apprendimento**:
    La fissazione efficace di obiettivi stimola la continua rivalutazione del proprio metodo, portando al continuo sviluppo e alla ricerca di nuove strategie di apprendimento da parte dell'atleta assieme al suo coach.
 5. **Incremento dell'autostima**:
-   Portare a compimento un obiettivo è un'azione soddisfacente dal punto di vista fisiologico e mentale. Un atleta che imposta i suoi miglioramenti sulla base di piccoli obiettivi a breve termine sarà più stimolato di un atleta che rincorre un vago miglioramento o un semplice risultato sportivo. Queste continue, seppur piccole, soddisfazioni vanno quindi a beneficio dell'autostima di colui che le riceve, rendendo il processo soddisfacente e mantenendo quindi alto il livello di motivazione.
+   Portare a compimento un obiettivo è un'azione soddisfacente dal punto di vista fisiologico e mentale. Un atleta che imposta i suoi miglioramenti sulla base di obiettivi a breve termine sarà più stimolato di un atleta che rincorre un vago miglioramento o un generico risultato sportivo. Il continuo portare a termine degli obiettivi va quindi ad incrementare l'autostima, rendendo il processo soddisfacente e mantenendo quindi alta la motivazione dell'atleta.
 
 ---
 # 2. L'obiettivo di prestazione
@@ -50,6 +50,8 @@ Per fare un esempio, un atleta agonista nella classe del 49er può impostare com
 Il gesto tecnico/atletico in questione è la abbattuta, la misurabilità di tale gesto è data dal tempo impiegato ad eseguirla e la valutabilità si basa sul fatto che un minore è il tempo di esecuzione, migliore è la valutazione del gesto.
 ## 2.1 Differenza e rapporto gerarchico rispetto ad altri obiettivi (Risultato e Processo)
 
+Nel processo di individuazione dell'obiettivo di prestazione è fondamentale riconoscerlo e distinguerlo da altre forme di obiettivo:
+- **obiettivo di risultato**
 ## 2.2 Le caratteristiche di un obiettivo ben posto (obiettivi S.M.A.R.T./S.P.O.R.T.)
 
 ---
