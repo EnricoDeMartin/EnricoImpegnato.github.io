@@ -48,5 +48,5 @@ Da non confondersi con l'**obiettivo di risultato**, ovvero l'obiettivo orientat
 	1. Obiettivi di processo
 	2. Preparare l'allenamento
 	3. Monitoraggio e valutazione dei progressi
-		1. Il ruolo delle checklist
-	4. Ridefinizione/aggiornamento periodico degli obiettivi
+		1. Checklist (?)
+		2. Ridefinizione/aggiornamento periodico degli obiettivi
