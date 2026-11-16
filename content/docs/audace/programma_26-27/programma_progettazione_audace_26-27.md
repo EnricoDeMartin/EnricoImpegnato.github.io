@@ -95,3 +95,16 @@ Periodo: **entro inizio 2027**
 
 
 ---
+## Feedback timonieri
+### Leo
+Smagrire la vela!!!
+- Sartiame
+- Boma è stramegacorto
+Foil
+- Il lino fuori è una cagata
+- Foil fucking rigidi
+Il fucking tappetino sulle terrazze
+### Anny
+La barca poggiava un botto
+lo stick del timone non gira
+Ride height non reid heighta
