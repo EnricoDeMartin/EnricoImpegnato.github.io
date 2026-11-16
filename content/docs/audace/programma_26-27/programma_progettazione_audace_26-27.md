@@ -109,3 +109,7 @@ Il ritorno sulla lattina di redbull fa cacare
 La barca poggiava un botto
 lo stick del timone non gira
 Ride height non reid heighta
+
+foil + affidabili ovvero gli diamo più manovrabilità 
+quindi per il main vedere se aumentare il flap 
+velocità decidi i range di vel meno "spinti"
