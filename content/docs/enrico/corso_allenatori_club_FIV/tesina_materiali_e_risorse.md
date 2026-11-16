@@ -54,9 +54,19 @@ Da non confondersi con l'**obiettivo di risultato**, ovvero l'obiettivo orientat
 ---
 # Brainstorming di 3.Come definire un obiettivo di prestazione
 Nulla in questa sezione
+
+Individuo la motivazione
+- Disinteressato miglioramento personale
+- Obiettivo di risultato che mi viene imposto
+  e.g. il circolo per giustificare economicamente una campagna olimpionica deve almeno avermi campione italiano e qualificato alle olimpiadi
+
+definisco una serie di prestazioni il cui livello è misurabile, assieme alle modalità di misura e quantificazione di tale livello
+
+misuro gli aspetti della mia prestazione che mi interessa analizzare, sulla base di quella che è la mia motivazione
+Posso partire da delle assunzioni per identificare 
 ## 3.1 Valutazione del livello di partenza
-Tramite i mezzi/strumenti adeguati, analizzo le mie prestazioni sull'acqua in modo da avere un livello "baseline" di ogni cosa che faccio
-Questo può essere a partire da osservazione esterna, misurazione 
+Tramite i mezzi/strumenti adeguati, analizzo le mie prestazioni sull'acqua in modo da avere una "baseline" di ogni aspetto della mia prestazione atletica
+Metodi di quantificazione  
 ## 3.2 Individuazione dell'obiettivo
 - A partire da un obiettivo di risultato (voglio vincere gli italiani -> devo migliorare il giro di boa)
 - A partire da un feedback dell'allenatore (ho visto che non regoli bene le manovre)
