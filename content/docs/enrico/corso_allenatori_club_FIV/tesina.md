@@ -72,10 +72,12 @@ Di seguito illustrerò il principio comunemente usato che (a mio parere) ha magg
 - **A**: Accessibile (Achievable), l'obiettivo deve essere realizzabile tramite le risorse che si hanno a disposizione.
 - **R**: Realistico, la difficoltà dell'obiettivo deve essere ben regolata, in modo da mettere alla prova l'atleta senza stremarlo. Un obiettivo troppo semplice ha poco significato e rischia di portare alla demotivazione, mentre un obiettivo troppo difficile causa frustrazione ed infine anch'esso alla volontà di arrendersi.
 - **T**: Temporale (Timely), un obiettivo deve includere un tempo chiaro di raggiungimento.
+
+---
 # 3. Come definire un obiettivo di prestazione
 
-In questo elaborato, nello specifico, andrò a concentrarmi sul processo di definizione di un obiettivo di prestazione.
 ## 3.1 Individuazione dell'obiettivo
+
 
 ### 3.1.1 Valutazione del livello di partenza
 

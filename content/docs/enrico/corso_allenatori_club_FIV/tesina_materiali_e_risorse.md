@@ -50,3 +50,22 @@ Da non confondersi con l'**obiettivo di risultato**, ovvero l'obiettivo orientat
 	3. Monitoraggio e valutazione dei progressi
 		1. Checklist (?)
 		2. Ridefinizione/aggiornamento periodico degli obiettivi
+
+---
+# Brainstorming di 3.Come definire un obiettivo di prestazione
+Nulla in questa sezione
+## 3.1 Valutazione del livello di partenza
+Tramite i mezzi/strumenti adeguati, analizzo le mie prestazioni sull'acqua in modo da avere un livello "baseline" di ogni cosa che faccio
+Questo può essere a partire da osservazione esterna, misurazione 
+## 3.2 Individuazione dell'obiettivo
+- A partire da un obiettivo di risultato (voglio vincere gli italiani -> devo migliorare il giro di boa)
+- A partire da un feedback dell'allenatore (ho visto che non regoli bene le manovre)
+- A partire da un'autovalutazione personale (sento che di poppa sono più lento degli altri
+-> trovo un gesto tecnico sul quale migliorare
+### 3.1.2 La crescita personale come priorità
+Partendo da un feedback dell'allenatore o da un'autovalutazione personale individuo il gesto tecnico da migliorare
+### 3.1.3 Il risultato come priorità
+Partendo da un risultato che voglio ottenere, individuo l'insieme di prestazioni da migliorare per il raggiungimento del livello necessario per ottenere tale risultato
+## 3.2 La scala temporale
+
+## 3.3 L'importanza della condivisione degli obiettivi
