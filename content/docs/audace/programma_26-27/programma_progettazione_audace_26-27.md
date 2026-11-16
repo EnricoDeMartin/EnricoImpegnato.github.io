@@ -104,6 +104,7 @@ Foil
 - Il lino fuori è una cagata
 - Foil fucking rigidi
 Il fucking tappetino sulle terrazze
+Il ritorno sulla lattina di redbull fa cacare
 ### Anny
 La barca poggiava un botto
 lo stick del timone non gira
