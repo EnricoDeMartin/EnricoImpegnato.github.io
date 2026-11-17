@@ -75,19 +75,62 @@ Di seguito illustrerò il principio comunemente usato che (a mio parere) ha magg
 
 ---
 # 3. Come definire un obiettivo di prestazione
+## 3.1 Individuare la motivazione
 
-## 3.1 Individuazione dell'obiettivo
+Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che ci spinge al raggiungimento di tale obiettivo.
+Tale motivazione può ricadere all'interno di due categorie:
+
+### **Miglioramento personale**
+Un atleta può puntare ad un determinato obiettivo di prestazione al semplice fine di miglioramento del proprio livello tecnico ed atletico della navigazione. 
+
+In questa categoria possono rientrare:
+- Tutta l'attività di *corsi intermedi* e *corsi avanzati*[^1] di scuola vela, il cui obiettivo è consolidare la tecnica di navigazione per svolgere un addestramento in sicurezza e successivamente dedicarsi alle regate di flotta.
+- Tutta l'attività di *agonismo giovanile*[^2], in particolar modo l'attività Under 12 la quale è rivolta alla *diffusione dell'offerta formativa e alla promozione* [^2], e la Under 16 il cui obiettivo è *lo sviluppo e l'osservazione* [^2] rivolto anche all'orientamento per il cambio classe, andando verso i monotipi olimpici.
+
+[^1]: Come definiti nel documento [Normativa Scuola Vela](https://federvela.it/wp-content/uploads/2026/02/Normativa-Scuola-Vela.pdf?_gl=1*85o22g*_up*MQ..*_ga*MTcyODYxMTYxNS4xNzk0OTEyOTIz*_ga_T6PL6QDLE4*czE3OTQ5MTI5MjMkbzEkZzAkdDE3OTQ5MTI5MjMkajYwJGwwJGgw)
+[^2]: Come definita nel documento [Normativa Settore Giovanile](https://federvela.it/wp-content/uploads/2026/02/Programmazione-Attivita-Sportiva-Giovanile.pdf?_gl=1*bo2uwz*_up*MQ..*_ga*MTcyODYxMTYxNS4xNzk0OTEyOTIz*_ga_T6PL6QDLE4*czE3OTQ5MTI5MjMkbzEkZzAkdDE3OTQ5MTI5MjMkajYwJGwwJGgw)
+### Raggiungimento di un obiettivo di risultato
+Un atleta può seguire vari obiettivi di prestazione rivolto al fine di ottenere un determinato obiettivo di risultato, che può venire da una motivazione personale o da una attività coordinata dal proprio circolo.
+
+Questa categoria comprende quindi tutta l'attività agonistica di alto livello, dalle regate e campionati di classe fino alla vela olimpionica.
+
+## 3.2 Le prestazioni e la misurabilità
+
+A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, i relativi metri di misura e valutazione associati ad esse.
+
+Varie metriche per la valutazione di una prestazione possono essere:
+- Metriche temporali (quanto ci metto a girare la boa e issare)
+- Analisi visiva (e.g. la barca non è piatta)
+- Raccolta di dati inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+
+## 3.3 Individuazione dell'obiettivo
+
+### 3.3.1 Identificare il livello di partenza
+in base alla motivazione capisco cosa voglio misurare
+misuro
+trovo un livello baseline di partenza
+
+### 3.3.2 Esprimere l'obiettivo
+individuo le prestazioni da migliorare
+esprimo gli obiettivi relativi a tali prestazioni in base alla motivazione e seguendo SMART
+
+---
 
 
-### 3.1.1 Valutazione del livello di partenza
+# ~~3. Come definire un obiettivo di prestazione~~
 
-### 3.1.2 Il risultato come priorità
+## ~~3.1 Individuazione dell'obiettivo~~
 
-### 3.1.3 La crescita personale come priorità
 
-## 3.2 La scala temporale
+### ~~3.1.1 Valutazione del livello di partenza~~
 
-## 3.3 L'importanza della condivisione degli obiettivi
+### ~~3.1.2 Il risultato come priorità~~
+
+### ~~3.1.3 La crescita personale come priorità~~
+
+## ~~3.2 La scala temporale~~
+
+## ~~3.3 L'importanza della condivisione degli obiettivi~~
 
 ---
 # 4. Raggiungimento dell'obiettivo
