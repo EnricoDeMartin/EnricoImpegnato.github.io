@@ -10,6 +10,7 @@ toc: true
 ## Presenze
 - [x] Riki
 - [ ] Busdon
+- [ ] Totta
 - [x] Emmma
 - [x] Maria
 - [x] Lolli
