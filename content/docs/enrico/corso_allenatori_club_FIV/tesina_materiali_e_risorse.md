@@ -71,20 +71,24 @@ In questa categoria possono rientrare:
 Un atleta può seguire vari obiettivi di prestazione rivolto al fine di ottenere un determinato obiettivo di risultato, che può venire da una motivazione personale o da una attività coordinata dal proprio circolo.
 
 Questa categoria comprende quindi tutta l'attività agonistica di alto livello, dalle regate e campionati di classe fino alla vela olimpionica.
-
 ## 3.2 Le prestazioni e la misurabilità
 
-A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, le specifiche metriche di valutazione associate ad esse.
+A questo punto è necessario individuare con precisione tutte le prestazioni dell'attività che possono essere misurabili e, di conseguenza, le specifiche metriche di valutazione associate ad esse.
 
 Alcune metriche per la valutazione di una prestazione possono essere:
 - Metriche temporali (quanto ci metto a girare la boa e issare)
 - Analisi visiva (e.g. la barca non è piatta)
 - Raccolta di dati da sensori inerziali e di posizione (e.g. vakaros, garmin, ecc...)
 
+Sulla base di una o più metriche, una prestazione diventa quindi a tutti gli effetti valutabile.
 ## 3.3 Individuazione dell'obiettivo
 
+Una volta determinata la motivazione e il metodo di valutazione delle prestazioni che costituiscono la mia attività, posso iniziare ad esprimere effettivamente uno o più obiettivi di prestazione.
 ### 3.3.1 Identificare il livello di partenza
-in base alla motivazione capisco cosa voglio misurare
+
+
+Il primo passo per impostare un obiettivo di prestazione efficace è impostare un livello di partenza dell'atleta.
+
 misuro
 trovo un livello baseline di partenza
 
