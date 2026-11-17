@@ -7,6 +7,16 @@ draft: true
 toc: true
 ---
 ---
+## Presenze
+- [x] Riki
+- [ ] Busdon
+- [x] Emmma
+- [x] Maria
+- [x] Lolli
+- [ ] Palace
+- [ ] Parme
+
+---
 ## ODG
 - Far entrare Mattia e Emma nel discord
 - Far entrare Emma nel gruppo whp di immagine
