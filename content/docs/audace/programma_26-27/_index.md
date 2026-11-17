@@ -11,3 +11,4 @@ toc: true
 ![[Pasted image 20261117093715.png]]
 
 ![[Pasted image 20261117100412.png]]
+
