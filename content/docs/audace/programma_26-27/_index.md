@@ -8,4 +8,5 @@ toc: true
 ---
 ---
 ## Riunione SuMoth al METS 17/11/2026
+![[Pasted image 20261117093715.png]]
 
