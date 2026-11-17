@@ -74,12 +74,12 @@ Questa categoria comprende quindi tutta l'attività agonistica di alto livello, 
 
 ## 3.2 Le prestazioni e la misurabilità
 
-A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, i relativi metri di misura e valutazione associati ad esse.
+A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, le specifiche metriche di valutazione associate ad esse.
 
-Varie metriche per la valutazione di una prestazione possono essere:
+Alcune metriche per la valutazione di una prestazione possono essere:
 - Metriche temporali (quanto ci metto a girare la boa e issare)
 - Analisi visiva (e.g. la barca non è piatta)
-- Raccolta di dati inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+- Raccolta di dati da sensori inerziali e di posizione (e.g. vakaros, garmin, ecc...)
 
 ## 3.3 Individuazione dell'obiettivo
 
