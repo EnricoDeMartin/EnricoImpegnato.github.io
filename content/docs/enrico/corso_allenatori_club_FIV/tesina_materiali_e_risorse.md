@@ -53,7 +53,12 @@ Da non confondersi con l'**obiettivo di risultato**, ovvero l'obiettivo orientat
 
 ---
 # Brainstorming di 3.Come definire un obiettivo di prestazione
-Nulla in questa sezione
+## 3.1 Individuare la motivazione
+
+Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che ci spinge al raggiungimento di tale obiettivo.
+Tale motivazione può rientrare in due categorie:
+- **Disinteressato miglioramento personale**: Un atleta può puntare ad un determinato obiettivo di prestazione al semplice fine di miglioramento del proprio livello tecnico ed atletico della navigazione. In questa categoria può rientrare tutta l'attività del preagonismo, nella quale i miglioramenti sono volti al puro sviluppo del ragazzo atleta 
+- 
 
 Individuo la motivazione
 - Disinteressato miglioramento personale
