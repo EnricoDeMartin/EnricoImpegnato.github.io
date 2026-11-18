@@ -12,7 +12,6 @@ toc: true
 Nel seguente elaborato svilupperò un'analisi approfondita riguardo l'argomento del *goal-setting* e, più nello specifico, nella definizione dell'**obiettivo di prestazione** nell'ambito della carriera sportiva di un'atleta.
 
 ---
-
 # 1 Motivazione
 **L'importanza del goal setting nell'attività sportiva.**
 
@@ -58,11 +57,15 @@ L'obiettivo di risultato mira al raggiungimento di un risultato o un titolo spor
 È indubbiamente uno strumento importante, ma solo se accompagnato da altri tipi di obiettivi a medio-breve termine. L'investimento di troppe risorse in questo tipo di obiettivo rischia di accumulare troppa pressione sull'atleta e quindi condizionarne lo stato psicologico, se non addirittura portare al *burnout*.
 Un insieme di obiettivi di prestazione possono costituire un piano d'azione per il raggiungimento di un obiettivo di risultato. 
 
+Seguendo l'analogia precedente dell'atleta 49er, il suo obiettivo di risultato può essere "la qualificazione alle olimpiadi". Per raggiungere questo si è quindi imposto l'obiettivo di prestazione di "riuscire a chiudere un'abbattuta in meno di 4 secondi".
+
 **Obiettivo di processo**
 L'obiettivo di processo è un tipo di obiettivo altamente specifico e a breve termine, serve a guidare passo passo l'atleta nei suoi miglioramenti.
 Un esempio di obiettivo di processo potrebbe essere il ricordarsi di alzare la deriva prima del bordo di poppa.
 Un obiettivo di processo rappresenta ciò che è necessario fare per acquisire una determinata abilità. Si può quindi concentrare su dettagli tecnici all'interno di un gesto complesso, ed è ciò su cui l'atleta si concentra maggiormente durante l'attività di allenamento.
 Gli obiettivi di processo sono strettamente legati all'obiettivo di prestazione in quanto sviluppano in passaggi il percorso da effettuare per il suo raggiungimento.
+
+Seguendo l'analogia precedente dell'atleta 49er, per raggiungere il suo obiettivo di prestazione di "chiudere un'abbattuta in meno di 4 secondi", egli può imporsi l'obiettivo di processo di "migliorare la sua tecnica di trapezio" oppure "stallare efficacemente il gennaker per agevolarne il passaggio".
 ## 2.2 Le caratteristiche di un obiettivo ben posto (obiettivi S.M.A.R.T./S.P.O.R.T.)
 
 Un obiettivo per essere efficace deve essere ben posto. Per rispettare ciò si fa tipicamente riferimento a dei giochi mnemonici per ricordare le caratteristiche fondamentali di un buon obiettivo.
@@ -142,10 +145,30 @@ Il confronto con un compagno di squadra, infatti, aiuta nella valutazione dell'e
 
 ## 4.1 Obiettivi di processo
 
+Un'obiettivo di prestazione di per sè è ancora troppo vago per impostare correttamente l'allenamento.
+In questa fase entra quindi in gioco la necessità di individuare un insieme di obiettivi di processo che siano propedeutici al raggiungimento dell'obiettivo di prestazione.
+
+Per identificarli correttamente, il processo da seguire è uguale a quello descritto per individuare l'obiettivo di prestazione, ma applicato un gradino più in basso.
+Bisogna quindi suddividere a sua volta ogni singola prestazione nei vari gesti tecnici ed atletici che la costituiscono e, ripetendo il processo di misura e valutazione di ognuno dei gesti, diviene possibile identificare quelli da migliorare.
+Infine sulla base di questi possono essere impostati gli obiettivi di processo necessari a migliorare il livello dei singoli gesti atletici e tecnici.
 ## 4.2 Preparare l'allenamento
 
+L'obiettivo ultimo dell'allenamento è raggiungere l'obiettivo di prestazione.
+Gli esercizi dell'allenamento devono quindi essere impostati in modo tale da lavorare al raggiungimento di uno o più degli obiettivi di processo propedeutici ricavati sopra.
+
+Diversi obiettivi di processo possono avere diversi esercizi propedeutici, pur essendo comunemente allo stesso obiettivo di prestazione. Per questo motivo la suddivisione della prestazione in singoli gesti tecnici descritta sopra diventa essenziale.
+
+Per fare un esempio, la tecnica di trapezio può beneficiare fortemente di attività al simulatore mentre la tecnica di trim del gennaker è migliorabile solo con l'allenamento in acqua, sebbene siano entrambe siano propedeutiche al miglioramento della prestazione della abbattuta.
 ## 4.3 Monitoraggio e valutazione dei progressi
 
-### 4.3.1 Checklist (?)
+Durante il percorso di allenamento è necessario monitorare l'andamento delle prestazioni e valutare i progressi dell'atleta.
+Rimangono quindi di estrema importanza i criteri di misura e valutazione delle prestazioni che sono stati definiti ancora all'inizio del processo di identificazione dell'obiettivo di prestazione.
 
-### 4.3.2 Ridefinizione/aggiornamento periodico degli obiettivi
+Queste misurazioni e valutazioni ovviamente devono andare di pari passo con degli adeguati sistemi di monitoraggio dei progressi.
+I più tradizionali sono le schede di valutazione stile *checklist*, ovvero delle tabelle cartacee i cui campi da compilare sono formulati su misura per l'attivita svolta o addirittura per gli specifici obiettivi di processo e prestazione che si intende raggiungere.
+Al giorno d'oggi sono sempre più presenti anche sistemi digitali di monitoraggio e valutazione dei progressi. Questi strumenti sono spesso inclusi nei software di appoggio dei dispositivi elettronici di raccolta dati (e.g. Vakaros, Garmin, ecc..), sebbene ne esistano anche di dedicati. 
+## 4.4 Ridefinizione e aggiornamento periodico degli obiettivi
+
+Le fasi di monitoraggio e valutazione dei progressi ovviamente non sono fini a sè stesse, ma volte a formare una catena ciclica di operazioni in modo da aggiornare gli obiettivi dell'atleta in maniera dinamica in base ai risultati dell'allenamento.
+
+Per questo il processo della definizione degli obiettivi di prestazione descritto nelle sezioni precedenti non deve essere preso come una procedura da eseguire *una tantum*, bensì da ripetere periodicamente (idealmente su base settimanale). In questo modo è possibile adattare costantemente il carico dell'atleta alle sue condizioni atletiche e alla sua velocità di miglioramento, in modo da mantenere validi tutti i vantaggi intrinsechi alla strategia del *goal-setting*.
