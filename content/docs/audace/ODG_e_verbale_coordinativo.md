@@ -21,6 +21,13 @@ toc: true
 ## ODG
 - Far entrare Mattia e Emma nel discord
 - Far entrare Emma nel gruppo whp di immagine
-- A che punto siamo con cantiere
-- A che punto siamo con foil
+### Abbiamo bisogno di date
+È arrivato il momento nel quale iniziare a fare sul serio
+- Tempistiche cantiere CON DATE
+- A che punto siamo con foil CON DATE 
+
+- Decretare una volta capite date questione fiera Pordenone
+- Mandare nomi staffetta Telethon (chiuse iscrizioni ma almeno mettono dentro qualcuno)
+
+
 ---
