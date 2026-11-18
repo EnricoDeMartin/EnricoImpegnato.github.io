@@ -7,6 +7,7 @@ draft: false
 toc: true
 ---
 ---
+<!--
 ## Struttura
 - **Armo**
 - **Scuffia**
@@ -33,7 +34,7 @@ toc: true
 	- Sgancia la scotta:
 	- Alza la deriva:
 	- Sa mollarsi dal traino:
-
+-->
 ---
 ## Tabelle versione crocette
 
@@ -81,7 +82,7 @@ toc: true
 | Si ricorda di alzare la deriva          |       |
 | Sa lasciarsi dal traino                 |       |
 | Sa mettere via la cima di traino        |       |
-
+%%
 ---
 ## Tabelle versione descrizione
 | Armo/disarmo         | Livello di autonomia |
@@ -90,3 +91,4 @@ toc: true
 | Alberare la barca    |                      |
 | Disalberare la barca |                      |
 | Riporre l'armo       |                      |
+%%
