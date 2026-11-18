@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 ---
-# Introduzione
+# Abstract
 
 Nel seguente elaborato svilupperò un'analisi approfondita riguardo l'argomento del *goal-setting* e, più nello specifico, nella definizione dell'**obiettivo di prestazione** nell'ambito della carriera sportiva di un'atleta.
 
