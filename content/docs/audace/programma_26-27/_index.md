@@ -12,3 +12,8 @@ toc: true
 
 ![[Pasted image 20261117100412.png]]
 
+
+
+## staffetta Telethon
+- io 
+- mattia
