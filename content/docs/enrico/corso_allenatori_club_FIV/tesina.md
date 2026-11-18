@@ -77,10 +77,11 @@ Di seguito illustrerò il principio comunemente usato che (a mio parere) ha magg
 # 3. Come definire un obiettivo di prestazione
 ## 3.1 Individuare la motivazione
 
-Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che ci spinge al raggiungimento di tale obiettivo.
+Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che
+spinge l'atleta al raggiungimento di tale obiettivo.
 Tale motivazione può ricadere all'interno di due categorie:
 
-### **Miglioramento personale**
+### Miglioramento personale
 Un atleta può puntare ad un determinato obiettivo di prestazione al semplice fine di miglioramento del proprio livello tecnico ed atletico della navigazione. 
 
 In questa categoria possono rientrare:
@@ -93,44 +94,48 @@ In questa categoria possono rientrare:
 Un atleta può seguire vari obiettivi di prestazione rivolto al fine di ottenere un determinato obiettivo di risultato, che può venire da una motivazione personale o da una attività coordinata dal proprio circolo.
 
 Questa categoria comprende quindi tutta l'attività agonistica di alto livello, dalle regate e campionati di classe fino alla vela olimpionica.
-
 ## 3.2 Le prestazioni e la misurabilità
 
-A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, i relativi metri di misura e valutazione associati ad esse.
+A questo punto è necessario individuare con precisione tutte le prestazioni dell'attività che possono essere misurabili e, di conseguenza, le specifiche metriche di valutazione associate ad esse.
 
-Varie metriche per la valutazione di una prestazione possono essere:
+Alcune metriche per la valutazione di una prestazione possono essere:
 - Metriche temporali (quanto ci metto a girare la boa e issare)
 - Analisi visiva (e.g. la barca non è piatta)
-- Raccolta di dati inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+- Raccolta di dati da sensori inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+Naturalmente le metriche delle prestazione devono essere più possibilmente oggettive, in modo da eliminare l'incertezza dovuta al fattore umano. Per questo motivo ad oggi sono largamente utilizzati sistemi di misura elettronici ad alta precisione.
 
+Sulla base di una o più metriche, una prestazione diventa quindi a tutti gli effetti valutabile.
 ## 3.3 Individuazione dell'obiettivo
 
+Una volta determinata la motivazione e il metodo di valutazione delle prestazioni che costituiscono la mia attività, posso iniziare ad essere espressi uno o più obiettivi di prestazione.
 ### 3.3.1 Identificare il livello di partenza
-in base alla motivazione capisco cosa voglio misurare
-misuro
-trovo un livello baseline di partenza
 
+Il primo passo per impostare un obiettivo di prestazione efficace è impostare un livello di partenza dell'atleta.
+Devono quindi essere valutate tutte le prestazioni misurabili individuate precedentemente nell'analisi (o comunque un sottoinsieme significativo di queste), in modo da ricavare un riferimento di base del livello dell'atleta.
 ### 3.3.2 Esprimere l'obiettivo
-individuo le prestazioni da migliorare
-esprimo gli obiettivi relativi a tali prestazioni in base alla motivazione e seguendo SMART
 
----
+A partire dal livello base di riferimento, coerentemente anche con la motivazione dell'atleta, devono venire individuate le prestazioni che necessitano di essere migliorate.
 
+Individuate queste possono quindi essere definiti gli obiettivi di prestazione più consoni al raggiungimento del livello desiderato, a seconda della motivazione e agli obiettivi di risultato che si intende raggiungere.
+## 3.4 La scala temporale
 
-# ~~3. Come definire un obiettivo di prestazione~~
+Naturalmente la componente temporale gioca un ruolo fondamentale lungo tutto il processo di definizione degli obiettivi di prestazione, come ricorda la "T" della strategia mnemonica S.M.A.R.T.
+In base alla motivazione il processo di definizione degli obiettivi può seguire due strade.
 
-## ~~3.1 Individuazione dell'obiettivo~~
+Se la motivazione è di disinteressato [[#Miglioramento personale]], allora la componente temporale gioca un ruolo secondario e subordinato al raggiungimento degli obiettivi. In tal caso infatti vengono prima identificati gli obiettivi di prestazione da raggiungere e successivamente viene data una scadenza temporale di raggiungimento sulla base della difficoltà di raggiungimento e sulla velocità di sviluppo dell'atleta.
 
+Se invece la motivazione è data dal [[#Raggiungimento di un obiettivo di risultato]], questo implica già la presenza di una scadenza generale, la quale è identificata dalla data dell'evento sportivo oggetto del mio obiettivo di risultato (le date del campionato, la chiusura delle qualificazioni per un evento, ecc...).
+In tal caso è l'impostazione degli obiettivi che viene messa in una posizione subordinata alla componente temporale. Diventa difatti necessario regolare il numero di obiettivi di prestazione e il livello di prestazione che puntano a raggiungere in modo tale da rimanere all'interno della scadenza generale dell'obiettivo di risultato.
 
-### ~~3.1.1 Valutazione del livello di partenza~~
+Soprattutto nel secondo caso è quindi importantissima una pianificazione realistica degli obiettivi (come ricorda la "R" della strategia mnemonica S.M.A.R.T.) tenendo conto anche della velocità di apprendimento dell'atleta, in modo da non impostare aspettative irrealizzabili e quindi portare alla demotivazione dell'atleta.
+## 3.5 L'importanza della condivisione degli obiettivi
 
-### ~~3.1.2 Il risultato come priorità~~
+In tutti gli step precedenti è fondamentale anche l'aspetto della condivisione degli obiettivi.
 
-### ~~3.1.3 La crescita personale come priorità~~
+Un coach, ad esempio, può aiutare non solo con la progressione dell'allenamento ma anche a mediare tra l'atleta ed il circolo, in modo da trovare delle soluzioni che possano soddisfare entrambi.
 
-## ~~3.2 La scala temporale~~
-
-## ~~3.3 L'importanza della condivisione degli obiettivi~~
+Anche la figura del partner di allenamento è di grande valore nella processo di impostazione degli obiettivi. 
+Il confronto con un compagno di squadra, infatti, aiuta nella valutazione dell'efficacia dell'allenamento e nell'identificazione delle prestazioni da migliorare.
 
 ---
 # 4. Raggiungimento dell'obiettivo
