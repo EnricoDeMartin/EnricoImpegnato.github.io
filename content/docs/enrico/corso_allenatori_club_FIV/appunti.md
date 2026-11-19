@@ -55,3 +55,5 @@ Stimola a sua volta
 - Tabelle/checlist
 - Materiale per riparazioni
 
+Software per analisi forma vele: SailPack vision
+Sailtrim è figo
