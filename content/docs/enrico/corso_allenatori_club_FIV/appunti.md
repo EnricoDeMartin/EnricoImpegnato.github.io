@@ -93,3 +93,32 @@ Per vedere video replay rallentatore ed analizzare bene il gesto tecnico, con an
 ### radar/centraline/previsioni locali (ventotrieste.info, vetercek)
 
 ### SailNjord x
+
+---
+# Il meteo 
+## Le informazioni necessarie all'allenatore
+- **Vento**
+	- Direzione
+	- Intensità
+	- Caratteristiche (evoluzione, rafficato/costante, stabile/oscillante)
+		- Brezza pura
+		- Brezza non pura (alterata da venti sinottici)
+		- Vento sinottico
+- **Precipitazioni**
+- **Correnti**
+- **Stato mare**
+
+In base a queste informazioni, e all'obiettivo della sicurezza programmo di conseguenza l'allenamento.
+## Come mi procuro sti dati?
+Windy e i suoi modelli meteo sono dei protocolli di rielaborazione di un dato generale che proviene da un centro meteorologico (di solito francoforte)
+I dati di windy sono quindi già una rielaborazione
+
+L'indice di affidabilità di queste previsioni è comunque proporzionale (inversamente) a:
+- La fetta spaziale
+- La fetta temporale
+
+Il metodo ottimale insiste nel confrontare i dati reali provenienti da stazioni meteo note e confrontarli con i vari modelli meteo per trovare il più affidabile per la zona.
+
+La certezza meteo comunque non è garantibile, a patto di tempo, spazio e budget.
+Devo quindi valutare comunque la variabilità della mia previsione e il grado di rischio associato.
+
