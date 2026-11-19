@@ -40,3 +40,18 @@ Stimola a sua volta
   Al fine di impostare una **routine**
 
 ## La riflessione
+
+---
+# Dario Malgarise - Gli strumenti dell'allenatore
+## Gli strumenti "tradizionali"
+- Fischietto
+- Boe e calumi
+- Anemometro e anemoscopio
+- Correntometro
+- Bussola
+- Binocolo
+- Videocamera
+- Wet notes?
+- Tabelle/checlist
+- Materiale per riparazioni
+
