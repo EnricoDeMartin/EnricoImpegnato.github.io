@@ -7,12 +7,11 @@ draft: false
 toc: true
 ---
 ---
-# Introduzione
+# Abstract
 
 Nel seguente elaborato svilupperò un'analisi approfondita riguardo l'argomento del *goal-setting* e, più nello specifico, nella definizione dell'**obiettivo di prestazione** nell'ambito della carriera sportiva di un'atleta.
 
 ---
-
 # 1 Motivazione
 **L'importanza del goal setting nell'attività sportiva.**
 
@@ -58,11 +57,15 @@ L'obiettivo di risultato mira al raggiungimento di un risultato o un titolo spor
 È indubbiamente uno strumento importante, ma solo se accompagnato da altri tipi di obiettivi a medio-breve termine. L'investimento di troppe risorse in questo tipo di obiettivo rischia di accumulare troppa pressione sull'atleta e quindi condizionarne lo stato psicologico, se non addirittura portare al *burnout*.
 Un insieme di obiettivi di prestazione possono costituire un piano d'azione per il raggiungimento di un obiettivo di risultato. 
 
+Seguendo l'analogia precedente dell'atleta 49er, il suo obiettivo di risultato può essere "la qualificazione alle olimpiadi". Per raggiungere questo si è quindi imposto l'obiettivo di prestazione di "riuscire a chiudere un'abbattuta in meno di 4 secondi".
+
 **Obiettivo di processo**
 L'obiettivo di processo è un tipo di obiettivo altamente specifico e a breve termine, serve a guidare passo passo l'atleta nei suoi miglioramenti.
 Un esempio di obiettivo di processo potrebbe essere il ricordarsi di alzare la deriva prima del bordo di poppa.
 Un obiettivo di processo rappresenta ciò che è necessario fare per acquisire una determinata abilità. Si può quindi concentrare su dettagli tecnici all'interno di un gesto complesso, ed è ciò su cui l'atleta si concentra maggiormente durante l'attività di allenamento.
 Gli obiettivi di processo sono strettamente legati all'obiettivo di prestazione in quanto sviluppano in passaggi il percorso da effettuare per il suo raggiungimento.
+
+Seguendo l'analogia precedente dell'atleta 49er, per raggiungere il suo obiettivo di prestazione di "chiudere un'abbattuta in meno di 4 secondi", egli può imporsi l'obiettivo di processo di "migliorare la sua tecnica di trapezio" oppure "stallare efficacemente il gennaker per agevolarne il passaggio".
 ## 2.2 Le caratteristiche di un obiettivo ben posto (obiettivi S.M.A.R.T./S.P.O.R.T.)
 
 Un obiettivo per essere efficace deve essere ben posto. Per rispettare ciò si fa tipicamente riferimento a dei giochi mnemonici per ricordare le caratteristiche fondamentali di un buon obiettivo.
@@ -77,10 +80,11 @@ Di seguito illustrerò il principio comunemente usato che (a mio parere) ha magg
 # 3. Come definire un obiettivo di prestazione
 ## 3.1 Individuare la motivazione
 
-Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che ci spinge al raggiungimento di tale obiettivo.
+Il primo passo per definire un obiettivo di prestazione efficace è individuare la motivazione che
+spinge l'atleta al raggiungimento di tale obiettivo.
 Tale motivazione può ricadere all'interno di due categorie:
 
-### **Miglioramento personale**
+### Miglioramento personale
 Un atleta può puntare ad un determinato obiettivo di prestazione al semplice fine di miglioramento del proprio livello tecnico ed atletico della navigazione. 
 
 In questa categoria possono rientrare:
@@ -93,54 +97,78 @@ In questa categoria possono rientrare:
 Un atleta può seguire vari obiettivi di prestazione rivolto al fine di ottenere un determinato obiettivo di risultato, che può venire da una motivazione personale o da una attività coordinata dal proprio circolo.
 
 Questa categoria comprende quindi tutta l'attività agonistica di alto livello, dalle regate e campionati di classe fino alla vela olimpionica.
-
 ## 3.2 Le prestazioni e la misurabilità
 
-A questo punto è necessario individuare con precisione tutte le prestazioni della mia attività che possono essere misurabili e, di conseguenza, i relativi metri di misura e valutazione associati ad esse.
+A questo punto è necessario individuare con precisione tutte le prestazioni dell'attività che possono essere misurabili e, di conseguenza, le specifiche metriche di valutazione associate ad esse.
 
-Varie metriche per la valutazione di una prestazione possono essere:
+Alcune metriche per la valutazione di una prestazione possono essere:
 - Metriche temporali (quanto ci metto a girare la boa e issare)
 - Analisi visiva (e.g. la barca non è piatta)
-- Raccolta di dati inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+- Raccolta di dati da sensori inerziali e di posizione (e.g. vakaros, garmin, ecc...)
+Naturalmente le metriche delle prestazione devono essere più possibilmente oggettive, in modo da eliminare l'incertezza dovuta al fattore umano. Per questo motivo ad oggi sono largamente utilizzati sistemi di misura elettronici ad alta precisione.
 
+Sulla base di una o più metriche, una prestazione diventa quindi a tutti gli effetti valutabile.
 ## 3.3 Individuazione dell'obiettivo
 
+Una volta determinata la motivazione e il metodo di valutazione delle prestazioni che costituiscono la mia attività, posso iniziare ad essere espressi uno o più obiettivi di prestazione.
 ### 3.3.1 Identificare il livello di partenza
-in base alla motivazione capisco cosa voglio misurare
-misuro
-trovo un livello baseline di partenza
 
+Il primo passo per impostare un obiettivo di prestazione efficace è impostare un livello di partenza dell'atleta.
+Devono quindi essere valutate tutte le prestazioni misurabili individuate precedentemente nell'analisi (o comunque un sottoinsieme significativo di queste), in modo da ricavare un riferimento di base del livello dell'atleta.
 ### 3.3.2 Esprimere l'obiettivo
-individuo le prestazioni da migliorare
-esprimo gli obiettivi relativi a tali prestazioni in base alla motivazione e seguendo SMART
 
----
+A partire dal livello base di riferimento, coerentemente anche con la motivazione dell'atleta, devono venire individuate le prestazioni che necessitano di essere migliorate.
 
+Individuate queste possono quindi essere definiti gli obiettivi di prestazione più consoni al raggiungimento del livello desiderato, a seconda della motivazione e agli obiettivi di risultato che si intende raggiungere.
+## 3.4 La scala temporale
 
-# ~~3. Come definire un obiettivo di prestazione~~
+Naturalmente la componente temporale gioca un ruolo fondamentale lungo tutto il processo di definizione degli obiettivi di prestazione, come ricorda la "T" della strategia mnemonica S.M.A.R.T.
+In base alla motivazione il processo di definizione degli obiettivi può seguire due strade.
 
-## ~~3.1 Individuazione dell'obiettivo~~
+Se la motivazione è di disinteressato [[#Miglioramento personale]], allora la componente temporale gioca un ruolo secondario e subordinato al raggiungimento degli obiettivi. In tal caso infatti vengono prima identificati gli obiettivi di prestazione da raggiungere e successivamente viene data una scadenza temporale di raggiungimento sulla base della difficoltà di raggiungimento e sulla velocità di sviluppo dell'atleta.
 
+Se invece la motivazione è data dal [[#Raggiungimento di un obiettivo di risultato]], questo implica già la presenza di una scadenza generale, la quale è identificata dalla data dell'evento sportivo oggetto del mio obiettivo di risultato (le date del campionato, la chiusura delle qualificazioni per un evento, ecc...).
+In tal caso è l'impostazione degli obiettivi che viene messa in una posizione subordinata alla componente temporale. Diventa difatti necessario regolare il numero di obiettivi di prestazione e il livello di prestazione che puntano a raggiungere in modo tale da rimanere all'interno della scadenza generale dell'obiettivo di risultato.
 
-### ~~3.1.1 Valutazione del livello di partenza~~
+Soprattutto nel secondo caso è quindi importantissima una pianificazione realistica degli obiettivi (come ricorda la "R" della strategia mnemonica S.M.A.R.T.) tenendo conto anche della velocità di apprendimento dell'atleta, in modo da non impostare aspettative irrealizzabili e quindi portare alla demotivazione dell'atleta.
+## 3.5 L'importanza della condivisione degli obiettivi
 
-### ~~3.1.2 Il risultato come priorità~~
+In tutti gli step precedenti è fondamentale anche l'aspetto della condivisione degli obiettivi.
 
-### ~~3.1.3 La crescita personale come priorità~~
+Un coach, ad esempio, può aiutare non solo con la progressione dell'allenamento ma anche a mediare tra l'atleta ed il circolo, in modo da trovare delle soluzioni che possano soddisfare entrambi.
 
-## ~~3.2 La scala temporale~~
-
-## ~~3.3 L'importanza della condivisione degli obiettivi~~
+Anche la figura del partner di allenamento è di grande valore nella processo di impostazione degli obiettivi. 
+Il confronto con un compagno di squadra, infatti, aiuta nella valutazione dell'efficacia dell'allenamento e nell'identificazione delle prestazioni da migliorare.
 
 ---
 # 4. Raggiungimento dell'obiettivo
 
 ## 4.1 Obiettivi di processo
 
+Un'obiettivo di prestazione di per sè è ancora troppo vago per impostare correttamente l'allenamento.
+In questa fase entra quindi in gioco la necessità di individuare un insieme di obiettivi di processo che siano propedeutici al raggiungimento dell'obiettivo di prestazione.
+
+Per identificarli correttamente, il processo da seguire è uguale a quello descritto per individuare l'obiettivo di prestazione, ma applicato un gradino più in basso.
+Bisogna quindi suddividere a sua volta ogni singola prestazione nei vari gesti tecnici ed atletici che la costituiscono e, ripetendo il processo di misura e valutazione di ognuno dei gesti, diviene possibile identificare quelli da migliorare.
+Infine sulla base di questi possono essere impostati gli obiettivi di processo necessari a migliorare il livello dei singoli gesti atletici e tecnici.
 ## 4.2 Preparare l'allenamento
 
+L'obiettivo ultimo dell'allenamento è raggiungere l'obiettivo di prestazione.
+Gli esercizi dell'allenamento devono quindi essere impostati in modo tale da lavorare al raggiungimento di uno o più degli obiettivi di processo propedeutici ricavati sopra.
+
+Diversi obiettivi di processo possono avere diversi esercizi propedeutici, pur essendo comunemente allo stesso obiettivo di prestazione. Per questo motivo la suddivisione della prestazione in singoli gesti tecnici descritta sopra diventa essenziale.
+
+Per fare un esempio, la tecnica di trapezio può beneficiare fortemente di attività al simulatore mentre la tecnica di trim del gennaker è migliorabile solo con l'allenamento in acqua, sebbene siano entrambe siano propedeutiche al miglioramento della prestazione della abbattuta.
 ## 4.3 Monitoraggio e valutazione dei progressi
 
-### 4.3.1 Checklist (?)
+Durante il percorso di allenamento è necessario monitorare l'andamento delle prestazioni e valutare i progressi dell'atleta.
+Rimangono quindi di estrema importanza i criteri di misura e valutazione delle prestazioni che sono stati definiti ancora all'inizio del processo di identificazione dell'obiettivo di prestazione.
 
-### 4.3.2 Ridefinizione/aggiornamento periodico degli obiettivi
+Queste misurazioni e valutazioni ovviamente devono andare di pari passo con degli adeguati sistemi di monitoraggio dei progressi.
+I più tradizionali sono le schede di valutazione stile *checklist*, ovvero delle tabelle cartacee i cui campi da compilare sono formulati su misura per l'attivita svolta o addirittura per gli specifici obiettivi di processo e prestazione che si intende raggiungere.
+Al giorno d'oggi sono sempre più presenti anche sistemi digitali di monitoraggio e valutazione dei progressi. Questi strumenti sono spesso inclusi nei software di appoggio dei dispositivi elettronici di raccolta dati (e.g. Vakaros, Garmin, ecc..), sebbene ne esistano anche di dedicati. 
+## 4.4 Ridefinizione e aggiornamento periodico degli obiettivi
+
+Le fasi di monitoraggio e valutazione dei progressi ovviamente non sono fini a sè stesse, ma volte a formare una catena ciclica di operazioni in modo da aggiornare gli obiettivi dell'atleta in maniera dinamica in base ai risultati dell'allenamento.
+
+Per questo il processo della definizione degli obiettivi di prestazione descritto nelle sezioni precedenti non deve essere preso come una procedura da eseguire *una tantum*, bensì da ripetere periodicamente (idealmente su base settimanale). In questo modo è possibile adattare costantemente il carico dell'atleta alle sue condizioni atletiche e alla sua velocità di miglioramento, in modo da mantenere validi tutti i vantaggi intrinsechi alla strategia del *goal-setting*.
