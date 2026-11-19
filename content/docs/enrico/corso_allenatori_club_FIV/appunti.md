@@ -6,9 +6,9 @@ icon: edit_note
 draft: false
 toc: true
 ---
-# Guido Ricetto - L'allenatore ed il lavoratore sportivo
+## Guido Ricetto - L'allenatore ed il lavoratore sportivo
 
-## Le caratteristiche dell'allenatore
+### Le caratteristiche dell'allenatore
 1. Obiettivo
 2. Fiducia
 3. Facilitatore
@@ -19,7 +19,7 @@ toc: true
 7. Riflessione
 8. Ascoltare (e saper ascoltare)
 
-## L'obiettivo
+### L'obiettivo
 - **Apprendimento**
 - Prestazione
 - Risultato
@@ -31,7 +31,7 @@ In questo sono importanti:
   La preparazione delle cose che effettivamente andrò a fare
 - La **progressione**
   Ciò che organizza le varie attività in modo che ci sia un vero progresso dell'atleta (progressione degli esercizi, progressione atletica, ecc...)
-## La motivazione
+### La motivazione
 Punta verso un **obiettivo**
 È stimolata dal **successo**
 Stimola a sua volta
@@ -39,11 +39,11 @@ Stimola a sua volta
 - La **disciplina**
   Al fine di impostare una **routine**
 
-## La riflessione
+### La riflessione
 
 ---
-# Dario Malgarise - Gli strumenti dell'allenatore
-## Gli strumenti "tradizionali"
+## Dario Malgarise - Gli strumenti dell'allenatore
+### Gli strumenti "tradizionali"
 - Fischietto
 - Boe e calumi
 - Anemometro e anemoscopio
@@ -59,44 +59,8 @@ Software per analisi forma vele: SailPack vision
 Sailtrim è figo
 
 ---
-# Lista app per allenamento
-## Per Telefono
-### SailingMetrics x
-### Virtual Regatta Inshore
-### Protest
-https://play.google.com/store/apps/details?id=info.schmidleitner.protestapp
-Consulenza legale per le proteste in regata
-## Westapps
-- **Start View** per visualizzare in realtà aumentata la linea di partenza
-  https://play.google.com/store/apps/details?id=com.amodtech.startview&hl=it
-- **Boat Clinometer** ti dice lo sbandamento della barca
-  https://play.google.com/store/apps/details?id=com.amodtech.boatclinometer&hl=it
-- **Mast Rake**
-  https://play.google.com/store/apps/details?id=com.amodtech.mastrake&hl=it
-- **Boat variometer** segnala la variazione di velocità con un segnale acustico
-  https://play.google.com/store/apps/details?id=com.amodtech.boatvariometer&hl=it
-
----
-## Per orologi
-### SailingWatch
-https://sailing.watch/
-Per Apple Watch, te
-### Garmin Navionics boating x
-Sia per corrente che per campo di regata
-### Anche Garmin Explore
-
----
-## Altro
-### dartfish.com
-https://www.dartfish.com/
-Per vedere video replay rallentatore ed analizzare bene il gesto tecnico, con anche funzioni di tracciamento della postura
-### radar/centraline/previsioni locali (ventotrieste.info, vetercek)
-
-### SailNjord x
-
----
-# Il meteo 
-## Le informazioni necessarie all'allenatore
+## Il meteo 
+### Le informazioni necessarie all'allenatore
 - **Vento**
 	- Direzione
 	- Intensità
@@ -109,7 +73,7 @@ Per vedere video replay rallentatore ed analizzare bene il gesto tecnico, con an
 - **Stato mare**
 
 In base a queste informazioni, e all'obiettivo della sicurezza programmo di conseguenza l'allenamento.
-## Come mi procuro sti dati?
+### Come mi procuro sti dati?
 Windy e i suoi modelli meteo sono dei protocolli di rielaborazione di un dato generale che proviene da un centro meteorologico (di solito francoforte)
 I dati di windy sono quindi già una rielaborazione
 
@@ -122,8 +86,21 @@ Il metodo ottimale insiste nel confrontare i dati reali provenienti da stazioni 
 La certezza meteo comunque non è garantibile, a patto di tempo, spazio e budget.
 Devo quindi valutare comunque la variabilità della mia previsione e il grado di rischio associato.
 
-## TPU
+### TPU
 All' **aumentare della temperatura**
 **Diminuisce la pressione**
 **Aumenta l'umidità**
+
+---
+## Paola Fachin - L'errore
+
+### L'errore
+- Infrazione del regolamento
+- Gesto tecnico non ottimizzato
+- Comportamento
+- Situazione malgestita
+- Distrazione
+
+L'errore è **naturale**, ha un ruolo naturale nell'evoluzione ed è connaturato al vivere.
+È un'enorme risorsa di apprendimento.
 
