@@ -122,3 +122,8 @@ Il metodo ottimale insiste nel confrontare i dati reali provenienti da stazioni 
 La certezza meteo comunque non è garantibile, a patto di tempo, spazio e budget.
 Devo quindi valutare comunque la variabilità della mia previsione e il grado di rischio associato.
 
+## TPU
+All' **aumentare della temperatura**
+**Diminuisce la pressione**
+**Aumenta l'umidità**
+
