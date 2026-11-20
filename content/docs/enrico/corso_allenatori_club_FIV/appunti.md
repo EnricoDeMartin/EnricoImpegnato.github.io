@@ -122,3 +122,6 @@ L'errore è **naturale**, ha un ruolo naturale nell'evoluzione ed è connaturato
 | **Capacità metodologiche**           | Focus sul coinvolgimento, comunicazione efficace in acqua con i ragazzi.                                                                | Saper impostare un percorso su misura per l'atleta, usare in briefing/debriefing strumenti più avanzati (e.g. video), gestire la trasferta, analisi in acqua degli atleti |
 | **Aspetti psicologici**              | Saper gestire le paure e insicurezze di un allievo che sta iniziando, trasmettere la passione.                                          | Empatia con l'atleta e fiducia, gestire l'ansia da prestazione, saper valorizzare la sconfitta/errore, saper motivare.                                                    |
 | **Aspetti fisici (atletico-motori)** |                                                                                                                                         | Resistenza a condizioni meteorologiche più ostili, maggiore sopportazione della fatica.                                                                                   |
+
+---
+## Giulia Pignolo - La formazione dell'equipaggio
