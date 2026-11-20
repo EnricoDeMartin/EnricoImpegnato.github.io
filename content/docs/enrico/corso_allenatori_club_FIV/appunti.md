@@ -105,4 +105,20 @@ L'errore è **naturale**, ha un ruolo naturale nell'evoluzione ed è connaturato
 È un'enorme risorsa di apprendimento.
 
 ---
-## Guido Ricetto - 
+## 
+
+- Competenze tecniche specifiche
+- Conoscenze tecniche specifiche
+- Capacità didattiche 
+- Capacità metodologiche
+- Aspetti psicologici
+- Aspetti fisici (atletico-motori)
+
+|                                      | ISTRUTTORE                                                                                                                              | ALLENATORE                                                                                                                                                                |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Competenze tecniche specifiche**   | Focus sulle nozioni veliche "basilari"                                                                                                  | Saper effettuare il rigging ottimale di una barca, patente per pulmino + carrello                                                                                         |
+| **Conoscenze tecniche specifiche**   | Conoscenza di esercizi propedeutici all'introduzione alla vela.                                                                         | Conoscenza approfondita delle RRS e simili, scibile velico più tecnico e specifico, nozioni di scienze motorie e comportamentali dell'atleta                              |
+| **Capacità didattiche **             | Impostazione della lezione perchè sia facilmente accessibile e compresibile, uso di terminologia più semplice, trasmettere la passione. | Trasmettere competenze tecniche, esercizi ad-hoc per l'allenamento, uso di ùterminologia più specifica.                                                                   |
+| **Capacità metodologiche**           | Focus sul coinvolgimento, comunicazione efficace in acqua con i ragazzi.                                                                | Saper impostare un percorso su misura per l'atleta, usare in briefing/debriefing strumenti più avanzati (e.g. video), gestire la trasferta, analisi in acqua degli atleti |
+| **Aspetti psicologici**              | Saper gestire le paure e insicurezze di un allievo che sta iniziando, trasmettere la passione.                                          | Empatia con l'atleta e fiducia, gestire l'ansia da prestazione, saper valorizzare la sconfitta/errore, saper motivare.                                                    |
+| **Aspetti fisici (atletico-motori)** |                                                                                                                                         | Resistenza a condizioni meteorologiche più ostili, maggiore sopportazione della fatica.                                                                                   |
