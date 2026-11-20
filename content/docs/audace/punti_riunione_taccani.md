@@ -7,42 +7,15 @@ draft: false
 toc: true
 ---
 --- 
-## Questione sicurezza e verbale
-### Verbale
-- [x] Catchpot
-- [ ] Nastri su vetri antinfrangimento per armadio cantiere
-      Aspettando soldi Brico per andarli a comprare 
-- [x] Riordino cantiere
 ### Da fare:
 - **Lina**: Farla a pezzi e disfarsene
 - **Maya**: 
 - **Azteca**:
-- Mettere gommapiuma e segnaletica su struttura legno barche. **URGENTE**
-- [x] **Chiedere a Fontana:**
-	- Caldaia
-	- Altro lavaocchi da tenere in bagno
-	- Estintore!!!
-	- Armadio Resine!!!
-	- Cassetta pronto soccorso
-### Sicurezza
+---
+## Questione 1001vela 2027
 
 ---
-## Questione furgone con Astreo e Racing Team
-
----
-## Team Declaration e iscrizione Team Manager alla piattaforma
-
----
-## Termosifoni
-Non termosifonano
-Fontana ha detto che passa a controllare in centrale termica
-
----
-## Estrattori e finestre
-### Estrattori
-Avviata la procedura, 
-### Finestre
-Nel giro di pochi giorni arrivano per installare gli infissi (Persiani)
+## A che punto Trieste capitale del mare
 
 ---
 ## Appendere la barca
