@@ -141,4 +141,33 @@ Un microciclo corrisponde ad un periodo di tempo che comprende
 Le **pause** ed il **riposo** diventano fondamentali.
 
 ---
-## La portanza
+## Laboratorio - Il Feedback
+Sono un allenatore
+Come sfrutto il feedback, come lo somministro, lo elaboro/uso, ecc...
+### L'atleta principiante
+**Feedback correttivo**
+Diretta e semplice, evitando spiegazioni complesse
+Glielo dico sul momento
+A ogni apparizione di nuovo errore
+Se l'errore persiste lo ripeto fino ad un determinato numero di ripetizioni, posso decidere di cambiare esercizio
+feedback prescrittivo in quanto l'atleta principiante potrebbe non ha ancora un metodo abbastanza sviluppato per formulare una correzzione dell'errore
+
+**Feedback valutativo**
+Glielo dico sul momento
+Se positivo, farlo valere come valore aggiunto in modo da stimolare la motivazione
+Tono positivo e motivazionale
+Se negativo, impostarlo più orientato alla correzione (torna a feedback correttivo)
+Tono calmo e rassicurante
+### L'atleta esperto
+**Feedback correttivo**
+Alla fine dell'esercizio / durante una pausa
+Utilizzando anche spiegazioni approfondite e complesse
+Non ripeto lo stesso feedback più volte (assumendo che abbia capito la prima volta)
+Deve permettere all'atleta di sviluppare la propria tecnica di navigazione
+feedback descrittivo in quanto una atleta esperto ha un metodo di apprendimento sviluppato a sufficienza per formulare la correzione dell'errore per conto suo 
+
+**Feedback valutativo**
+Alla fine di un esercizio
+Se positivo farlo valere a stimolo della motivazione
+Se negativo, incentivare lo sviluppo si una soluzione da parte dell'atleta e non solamente del coach
+Tono serio, comunque non severo
