@@ -124,4 +124,19 @@ L'errore è **naturale**, ha un ruolo naturale nell'evoluzione ed è connaturato
 | **Aspetti fisici (atletico-motori)** |                                                                                                                                         | Resistenza a condizioni meteorologiche più ostili, maggiore sopportazione della fatica.                                                                                   |
 
 ---
-## Giulia Pignolo - La formazione dell'equipaggio
+## Giulia Pignolo - La formazione dell'equipaggio (e della squadra)
+### Creare il percorso didattico
+Considerando
+- Il **sogno** dell'atleta (importante!!)
+- Gli **obiettivi di risultato**
+### Organizzazione dell'obiettivo
+**I microcicli**
+Per il raggiungimento di un obiettivo devo impostare un allenamento propedeutico.
+Il carico di questo allenamento non deve essere però *massimo* tutto il tempo, ma seguire un andamento a **microcicli**.
+Un microciclo corrisponde ad un periodo di tempo che comprende
+- Un inizio a carico basso
+- Un picco di carico a metà ciclo, dove la mia attività sarà più intensa
+- Una chiusura in scarico in vista dell'evento prefissato per ricaricare il fisico e la menta
+- + eventualmente delle giornate di "richiamo" a massimo carico
+Le **pause** ed il **riposo** diventano fondamentali.
+### 
