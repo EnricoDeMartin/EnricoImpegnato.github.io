@@ -104,3 +104,5 @@ All' **aumentare della temperatura**
 L'errore è **naturale**, ha un ruolo naturale nell'evoluzione ed è connaturato al vivere.
 È un'enorme risorsa di apprendimento.
 
+---
+## Guido Ricetto - 
