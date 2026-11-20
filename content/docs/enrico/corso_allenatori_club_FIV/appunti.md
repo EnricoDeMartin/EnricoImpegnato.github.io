@@ -171,3 +171,6 @@ Alla fine di un esercizio
 Se positivo farlo valere a stimolo della motivazione
 Se negativo, incentivare lo sviluppo si una soluzione da parte dell'atleta e non solamente del coach
 Tono serio, comunque non severo
+
+---
+## Insegnare il regolamento di regata
