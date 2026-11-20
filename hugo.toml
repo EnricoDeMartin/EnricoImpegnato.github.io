@@ -16,3 +16,6 @@ title = 'EnricoImpegnato'
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params.docs]
+    darkMode = true
