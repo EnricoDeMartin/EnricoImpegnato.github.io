@@ -139,4 +139,6 @@ Un microciclo corrisponde ad un periodo di tempo che comprende
 - Una chiusura in scarico in vista dell'evento prefissato per ricaricare il fisico e la menta
 - + eventualmente delle giornate di "richiamo" a massimo carico
 Le **pause** ed il **riposo** diventano fondamentali.
-### 
+
+---
+## La portanza
