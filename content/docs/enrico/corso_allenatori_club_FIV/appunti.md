@@ -6,6 +6,7 @@ icon: edit_note
 draft: false
 toc: true
 ---
+---
 ## Guido Ricetto - L'allenatore ed il lavoratore sportivo
 
 ### Le caratteristiche dell'allenatore
@@ -260,3 +261,5 @@ Lavagnetta
 Diari personali degli atleti
 
 ---
+## Paola Fachin - Il safeguarding
+
