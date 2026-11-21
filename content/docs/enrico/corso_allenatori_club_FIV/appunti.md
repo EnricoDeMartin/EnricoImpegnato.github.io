@@ -230,3 +230,31 @@ Domande sbagliate:
 - Domande valutative (hai pensato a, hai considerato che...)
 - Domande comparative (perché tu hai fatto così e gli altri colà?)
 - Domande con colpa implicita
+
+---
+## Laboratorio - Il debriefing
+### Tempi
+Dopo l'uscita
+Generalmente breve, sempre in relazione alle condizioni psicofisiche degli atleti
+### Argomenti trattati
+Feelings degli atleti
+Aspettative personali dell'allenamento
+Analisi costruttiva degli esercizi (ed eventuali errori), in linea con il briefing.
+L'atleta ha colto i feedback ricevuti in acqua?
+Valutazione generale dell'allenamento (acqua/terra)
+Allineamento degli obiettivi impostati
+### Modi
+In cerchio (tutti allo stesso livello)
+Il commento non è mai individuale.
+Al primo posto le riflessioni degli atleti e il dialogo di gruppo.
+Valorizzare gli aspetti positivi senza insistere su quelli negativi
+Valorizzare le idee/soluzioni degli atleti (se valide)
+Incentivare motivazione
+Che se ne vadano da qui chiedendosi cosa hanno imparato durante l'allenamento
+### Luoghi
+Aula (possibilmente asciutti)
+### Strumenti
+Schede di osservazione
+Video
+Lavagnetta
+Diari personali degli atleti
