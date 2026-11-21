@@ -173,4 +173,23 @@ Se negativo, incentivare lo sviluppo si una soluzione da parte dell'atleta e non
 Tono serio, comunque non severo
 
 ---
-## Insegnare il regolamento di regata
+## Paola Fachin - L'alibi
+
+È una giustificazione (grazie)
+
+Con l'alibi *difendo la mia coerenza interna*
+
+**Perchè si innesca**
+Nel momento di "crisi" nel quale sento questa discrepanza tra la mia coerenza interna e quello che è successo, l'alibi serve ad auto-assolversi e passare subito avanti, evitando di ragionare approfonditamente sull'errore.
+Da 0 a 300<ins>ms</ins> si attiva un'allerta, e il cervello si attiva subito per "spegnerla"
+Solo due secondi dopo si attiva la coscienza e la ragione, che nel giro di 1-2 secondi costruisce la spiegazione più plausibile sulla base delle informazioni più coerenti a mia disposizione. 
+
+Sotto stress l'allerta dura di più e la probabilità di innesco dell'alibi aumenta proporzionalmente.
+
+**Come sono le spiegazioni degli alibi**
+- Difensive
+- Rigide
+- Convincenti!
+
+La giustificazione che mi creo **diventa** la causa reale del problema, al punto che diventa difficile capire il problema per l'atleta.
+Il primo ad essere convinto è quindi l'atleta.
