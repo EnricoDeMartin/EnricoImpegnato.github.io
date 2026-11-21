@@ -193,3 +193,40 @@ Sotto stress l'allerta dura di più e la probabilità di innesco dell'alibi aume
 
 La giustificazione che mi creo **diventa** la causa reale del problema, al punto che diventa difficile capire il problema per l'atleta.
 Il primo ad essere convinto è quindi l'atleta.
+
+**Iperfocalizzazione**
+Durante l'allarme l'atleta si concentra interamente sulla minaccia
+- Visiva: il viso incazzato dell'allenatore/il tubolare del gommone/ecc..
+- Uditiva: il "rumore" della voce dell'allenatore
+--> Ogni indicazione data non viene assorbita
+
+**Che deve fare l'allenatore?**
+Riconoscere l'alibi e lavorar in maniera coerente per smontarlo e portare invece alla vera accettazione dell'errore, e guidare l'atleta nell'analisi.
+
+**Come lo riconosco?**
+- Dalla velocità di risposta: risponde immediatamente e velocissimamente 
+- Forma linguistica: una risposta secca, senza spiegazioni, poco elaborata
+- Spiegazione vaga: nulla di esatto
+- Non c'è sequenza temporale: indicazioni temporali vaghe e caotiche
+- Segnali corporei: Aumenta il battito/respiro, stress, sudorazione.
+- All'aumentare delle domande si irrita e cerca di chiudere il discorso, si incazza.
+- Glielo richiedi 10 minuti dopo e la versione non è più la stessa.
+
+**Come lo disinnesco?**
+Devo disinnescarlo **prima** che il racconto si consolidi (circa entro 20 secondi)
+Facendo le domande giuste:
+- Cosa sentivi in quel momento?
+  Mi concentro su quello che era il suo stato emotivo in quel momento (probabilmente tensione/ansia)
+- Cosa stavi guardando / su cosa eri concentrato?
+
+Cerco di ricostruire correttamente la sequenza temporale.
+
+A questo punto posso mettermi ad analizzare la situazione.
+
+**Cosa NON fare**
+Domande sbagliate:
+- Perché?
+- Cos'è successo?
+- Domande valutative (hai pensato a, hai considerato che...)
+- Domande comparative (perché tu hai fatto così e gli altri colà?)
+- Domande con colpa implicita
