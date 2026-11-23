@@ -32,5 +32,6 @@ toc: true
 - ⁠parlare di quello che è stato detto nella riunione con bruno
 - gita fuori porta dai tipi dei compositi
 - scegliere data plenaria dicembre
+- prenotazione casa carlino
 
 ---
