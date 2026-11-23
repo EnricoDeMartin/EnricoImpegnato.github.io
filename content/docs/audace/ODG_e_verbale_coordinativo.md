@@ -27,5 +27,10 @@ toc: true
 - Decretare una volta capite date questione fiera Pordenone (la laura continua a scassare)
 - Mandare nomi staffetta Telethon (chiuse iscrizioni ma almeno mettono dentro qualcuno)
 - Software vele figo totta
+- questione laura (che rischiamo di non fare la sumoth)
+- ⁠questione e-mail da inviare per le aziende che abbiamo trovato al mets
+- ⁠parlare di quello che è stato detto nella riunione con bruno
+- gita fuori porta dai tipi dei compositi
+- scegliere data plenaria dicembre
 
 ---
