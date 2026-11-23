@@ -20,14 +20,12 @@ toc: true
 ---
 ## ODG
 - Far entrare Mattia e Emma nel discord
-- Far entrare Emma nel gruppo whp di immagine
 ### Abbiamo bisogno di date
-È arrivato il momento nel quale iniziare a fare sul serio
 - Tempistiche cantiere CON DATE
-- A che punto siamo con foil CON DATE 
+- Progettazione CON DATE 
 
-- Decretare una volta capite date questione fiera Pordenone
+- Decretare una volta capite date questione fiera Pordenone (la laura continua a scassare)
 - Mandare nomi staffetta Telethon (chiuse iscrizioni ma almeno mettono dentro qualcuno)
-
+- Software vele figo totta
 
 ---
