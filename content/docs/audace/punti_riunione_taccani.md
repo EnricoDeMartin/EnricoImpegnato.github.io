@@ -18,4 +18,8 @@ toc: true
 ## A che punto Trieste capitale del mare
 
 ---
+## Chiedere per problema che se l'uni fa un post qualsiasi su di noi noi siamo fuori dalla sumoth
+Ed eventualmente coinvolgere laura e rettrice
+
+---
 ## Appendere la barca
