@@ -20,16 +20,16 @@ toc: true
 | Chiudere specchio di poppa          | 01/02/27    | 15/03/26 |                      |
 | Preparare superficie scafo Neverina | oggi        | 15/03/27 |                      |
 | Verniciare Neverina                 | 15/03/27    | 01/04/27 |                      |
-| Stampo crocette                     |             | 07/04/27 |                      |
+| Stampo crocette                     | 01/03/27    | 07/04/27 |                      |
 | Stampo gantry                       | 01/02/27    | 01/03/27 |                      |
-| Produzione foil Cantore             | 1/04/27     | 1/05/27  |                      |
-| Produzione vertical set #1          | 1/04/27     | 1/05/27  |                      |
-| Produzione foil Simo                |             | 1/06/27  |                      |
-| Produzione vertical set #2          |             | 1/06/27  |                      |
-| Produzione terrazze                 |             | 01/05/27 | Se entro 1/04 meglio |
+| Produzione foil Cantore             | 01/04/27    | 01/05/27 |                      |
+| Produzione vertical set #1          | 01/04/27    | 01/05/27 |                      |
+| Produzione foil Simo                |             | 01/06/27 |                      |
+| Produzione vertical set #2          |             | 01/06/27 |                      |
+| Produzione terrazze                 | 14/03/27    | 01/05/27 | Se entro 1/04 meglio |
 | Produzione gantry                   | 01/03/27    | 01/05/27 | Se entro 1/04 meglio |
 | Produzione crocette                 | 07/04/27    | 01/05/27 |                      |
-| **PROOF OF FUNCTIONALITY**          |             | 10/05/27 |                      |
+| **PROOF OF FUNCTIONALITY**          | 14/04/27    | 01/05/27 |                      |
 
 
 ---

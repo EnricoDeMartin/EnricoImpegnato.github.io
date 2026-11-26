@@ -9,20 +9,20 @@ toc: true
 ---
 ## Tabella di marcia
 
-| Lavoro                        | Data inizio                         | Scadenza         | Note |
-| ----------------------------- | ----------------------------------- | ---------------- | ---- |
-| Specchio di poppa stratifiche |                                     | 01/02/27         | s1   |
-| Gantry nuovo geometrie        |                                     | 01/02/27         | s1   |
-| Gantry nuovo stratifiche      | 01/02/27                            | 01/03/27         | s1   |
-| Foil Cantore geometrie        | oggi                                | 14/02/27         | s1   |
-| Foil Cantore stratifiche      | 14/02/27                            | 21/02/27         | s1   |
-| Foil Simo stratifiche         |                                     |                  |      |
-| Crocette nuove geometrie      | da vedere x capire dimensioni nuove | 2 settimane dopo | s1   |
-| Crocette nuove stratifiche    |                                     |                  | s1   |
-| Terrazze nuove stratifiche    |                                     |                  | s1   |
-| Verticali stratifiche         |                                     |                  |      |
-| Verticali stratifiche prepreg |                                     |                  |      |
-| **S1 REPORT**                 | 01/03/2027                          | 18/03/2027       |      |
+| Lavoro                        | Data inizio | Scadenza | Note                                                   |
+| ----------------------------- | ----------- | -------- | ------------------------------------------------------ |
+| Specchio di poppa stratifiche | 02/12/26    | 20/12/26 | s1                                                     |
+| Gantry nuovo geometrie        | oggi        | 01/02/27 | s1                                                     |
+| Gantry nuovo stratifiche      | 01/02/27    | 01/03/27 | s1                                                     |
+| Foil Cantore geometrie        | oggi        | 14/02/27 | s1                                                     |
+| Foil Cantore stratifiche      | 14/02/27    | 21/02/27 | s1                                                     |
+| Foil Simo stratifiche         |             |          |                                                        |
+| Crocette nuove geometrie      | 21/02/27    | 1/03/27  | s1, si sanno solo quando Ale ci dice per la vela nuova |
+| Crocette nuove stratifiche    | 01/03/27    | 14/03/27 | s1                                                     |
+| Terrazze nuove stratifiche    | 01/03/27    | 14/03/27 | s1                                                     |
+| Verticali stratifiche         |             |          |                                                        |
+| Verticali stratifiche prepreg |             |          |                                                        |
+| **S1 REPORT**                 | 01/03/2027  | 18/03/27 |                                                        |
 
 
 ---
