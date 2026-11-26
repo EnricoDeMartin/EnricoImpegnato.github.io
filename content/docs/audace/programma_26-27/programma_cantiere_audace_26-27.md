@@ -22,8 +22,8 @@ toc: true
 | Verniciare Neverina                 | 15/03/27    | 01/04/27 |                      |
 | Stampo crocette                     |             | 07/04/27 |                      |
 | Stampo gantry                       | 01/02/27    | 01/03/27 |                      |
-| Produzione foil Cantore             |             | 1/05/27  |                      |
-| Produzione vertical set #1          |             | 1/05/27  |                      |
+| Produzione foil Cantore             | 1/04/27     | 1/05/27  |                      |
+| Produzione vertical set #1          | 1/04/27     | 1/05/27  |                      |
 | Produzione foil Simo                |             | 1/06/27  |                      |
 | Produzione vertical set #2          |             | 1/06/27  |                      |
 | Produzione terrazze                 |             | 01/05/27 | Se entro 1/04 meglio |

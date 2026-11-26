@@ -11,18 +11,18 @@ toc: true
 
 | Lavoro                        | Data inizio                         | Scadenza         | Note |
 | ----------------------------- | ----------------------------------- | ---------------- | ---- |
-| Specchio di poppa stratifiche |                                     | 01/02/27         |      |
-| Gantry nuovo geometrie        |                                     | 01/02/27         |      |
-| Gantry nuovo stratifiche      | 01/02/27                            | 01/03/27         |      |
-| Foil Cantore geometrie        |                                     |                  |      |
-| Foil Cantore stratifiche      |                                     |                  |      |
+| Specchio di poppa stratifiche |                                     | 01/02/27         | s1   |
+| Gantry nuovo geometrie        |                                     | 01/02/27         | s1   |
+| Gantry nuovo stratifiche      | 01/02/27                            | 01/03/27         | s1   |
+| Foil Cantore geometrie        | oggi                                | 14/02/27         | s1   |
+| Foil Cantore stratifiche      | 14/02/27                            | 21/02/27         | s1   |
 | Foil Simo stratifiche         |                                     |                  |      |
-| Crocette nuove geometrie      | da vedere x capire dimensioni nuove | 2 settimane dopo |      |
-| Crocette nuove stratifiche    |                                     |                  |      |
-| Terrazze nuove stratifiche    |                                     |                  |      |
+| Crocette nuove geometrie      | da vedere x capire dimensioni nuove | 2 settimane dopo | s1   |
+| Crocette nuove stratifiche    |                                     |                  | s1   |
+| Terrazze nuove stratifiche    |                                     |                  | s1   |
 | Verticali stratifiche         |                                     |                  |      |
 | Verticali stratifiche prepreg |                                     |                  |      |
-| **S1 REPORT**                 | 01/03/2027                          | 20/03/2027       |      |
+| **S1 REPORT**                 | 01/03/2027                          | 18/03/2027       |      |
 
 
 ---
