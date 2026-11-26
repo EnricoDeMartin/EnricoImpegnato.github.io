@@ -9,6 +9,21 @@ toc: true
 ---
 ## Tabella di marcia
 
+| Lavoro                        | Data inizio                         | Scadenza         | Note |
+| ----------------------------- | ----------------------------------- | ---------------- | ---- |
+| Specchio di poppa stratifiche |                                     | 01/02/27         |      |
+| Gantry nuovo geometrie        |                                     | 01/02/27         |      |
+| Gantry nuovo stratifiche      | 01/02/27                            | 01/03/27         |      |
+| Foil Cantore geometrie        |                                     |                  |      |
+| Foil Cantore stratifiche      |                                     |                  |      |
+| Foil Simo stratifiche         |                                     |                  |      |
+| Crocette nuove geometrie      | da vedere x capire dimensioni nuove | 2 settimane dopo |      |
+| Crocette nuove stratifiche    |                                     |                  |      |
+| Terrazze nuove stratifiche    |                                     |                  |      |
+| Verticali stratifiche         |                                     |                  |      |
+| Verticali stratifiche prepreg |                                     |                  |      |
+| **S1 REPORT**                 | 01/03/2027                          | 20/03/2027       |      |
+
 
 ---
 ## Formazione

@@ -13,14 +13,19 @@ toc: true
 | ----------------------------------- | ----------- | -------- | -------------------- |
 | Laminazioni formazione              |             |          |                      |
 | Infusione formazione                |             |          |                      |
-| Foil simo backup (stampi alluminio) |             |          |                      |
-| Studio fresatura stampi foil        |             |          |                      |
-| Copia stampo terrazze               |             |          |                      |
-| Specchio di poppa                   |             | 20/12/26 |                      |
-| Preparare superficie scafo Neverina |             | 15/03/27 |                      |
+| Foil simo backup (stampi alluminio) | oggi        |          |                      |
+| Studio fresatura stampi foil        | oggi        |          |                      |
+| Copia stampo terrazze               | oggi        |          |                      |
+| Aprire specchio di poppa            | oggi        | 20/12/26 |                      |
+| Chiudere specchio di poppa          | 01/02/27    | 15/03/26 |                      |
+| Preparare superficie scafo Neverina | oggi        | 15/03/27 |                      |
 | Verniciare Neverina                 | 15/03/27    | 01/04/27 |                      |
 | Stampo crocette                     |             | 07/04/27 |                      |
 | Stampo gantry                       | 01/02/27    | 01/03/27 |                      |
+| Produzione foil Cantore             |             | 1/05/27  |                      |
+| Produzione vertical set #1          |             | 1/05/27  |                      |
+| Produzione foil Simo                |             | 1/06/27  |                      |
+| Produzione vertical set #2          |             | 1/06/27  |                      |
 | Produzione terrazze                 |             | 01/05/27 | Se entro 1/04 meglio |
 | Produzione gantry                   | 01/03/27    | 01/05/27 | Se entro 1/04 meglio |
 | Produzione crocette                 | 07/04/27    | 01/05/27 |                      |
@@ -47,3 +52,9 @@ Inizio da post sessione
 - Riverniciare
 ## Terrazze
 Vedere geometrie se si riesce a fare dalla roba vecchia
+## Foil
+2 set verticali
+2 set orizzontali: 1 fast e 1 slow
+**Extra**
+1 set verticali
+2 set orizzontali: 1 fast e 1 slow
