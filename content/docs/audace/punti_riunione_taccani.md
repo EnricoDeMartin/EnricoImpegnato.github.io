@@ -6,11 +6,6 @@ icon: format_list_bulleted
 draft: false
 toc: true
 ---
---- 
-### Da fare:
-- **Lina**: Farla a pezzi e disfarsene
-- **Maya**: 
-- **Azteca**:
 ---
 ## Questione 1001vela 2027
 

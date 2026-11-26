@@ -7,23 +7,8 @@ draft: false
 toc: true
 ---
 ---
-## Wishlist INALIA
+## Tabella di marcia
 
-| Pezzo            | Descrizione                                     | Livello figaggine |
-| ---------------- | ----------------------------------------------- | ----------------- |
-| Crocetta         | Flessione prodder e laterali                    | ALTA              |
-| Foil horizontals | Bending moment of foils                         | MEDIA             |
-| Terrazze         | Flessione dei due wingbar su entrambe le murate | BASSA             |
-| Foil verticals   | Flessione in navigazione                        | BASSISSIMA        |
-
-### Terrazze
-Strain su i due wingbar su entrambe le murate, se costa troppo eventualmente solo una murata
-### Crocette 
-Strain prodder e laterali
-### Foil horizontals
-Bending moment of foils (main+ and rudder-)
-### Foil verticals
-Flessione dei verticali
 
 ---
 ## Formazione
